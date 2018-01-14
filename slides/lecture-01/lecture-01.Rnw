@@ -311,10 +311,10 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
         a difference for men. We probably will not have time to go into it\textCR
         any further; this is just to whet students' appetite for what is possible.
       }
-      Do you see a different pattern between men and women?
+      Do you see a difference between men (blue) and women (red)?
 
       <<echo=F, message=F>>=
-      plot(eval ~ beauty, col=ifelse(gender == "male", "lightblue", "pink"), ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
+      plot(eval ~ beauty, col=ifelse(gender == "male", "lightblue", "red"), ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
       @
     \end{frame}
 
