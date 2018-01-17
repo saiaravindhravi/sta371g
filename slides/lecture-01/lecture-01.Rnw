@@ -66,7 +66,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
     % TODO: Update for instructor
     \begin{frame}{Who am I?}
       \begin{itemize}
-        \item \textbf{Educator:} Previously taught at Harvard University and Boston University
+        \item \textbf{Educator:} Teaching statistics at McCombs since 2014; previously taught at Harvard University and Boston University
         \item \textbf{Entrepreneur:} Currently co-founder and CEO of Perusall; formerly co-founder and CEO of Learning Catalytics (acquired by Pearson)
         \item \textbf{Engineer/statistician:} Software engineering/analytics background
       \end{itemize}
@@ -96,7 +96,6 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
       \begin{itemize}
         \item We will use \alert{Learning Catalytics} so you can get practice of the concepts during class
         \item Buy online (\$12) at \url{learningcatalytics.com} or use for free if you bought for another class (you may still have access from STA 309)
-        \item Grading based on completeness only; answer 75\% of the questions for full credit
         \item Bring a laptop, smartphone, or tablet to every class
         \item A note about devices in class
       \end{itemize}
@@ -262,6 +261,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
       }
       <<echo=F, message=F>>=
       plot(eval ~ beauty, col='orange', ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
+      abline(lm(eval ~ beauty, data=TeachingRatings), col="orange", lwd=3)
       @
     \end{frame}
 
@@ -272,6 +272,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
       }
       <<echo=F, message=F>>=
       plot(eval ~ age, col='orange', ylab='Average student evaluation', xlab='Age (years)', pch=16, data=TeachingRatings)
+      abline(lm(eval ~ age, data=TeachingRatings), col="orange", lwd=3)
       @
     \end{frame}
 
@@ -314,7 +315,22 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
       Do you see a difference between men (blue) and women (red)?
 
       <<echo=F, message=F>>=
-      plot(eval ~ beauty, col=ifelse(gender == "male", "lightblue", "red"), ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
+      plot(eval ~ beauty, col=ifelse(gender == "male", "lightblue", "lightcoral"), ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
+      @
+    \end{frame}
+
+    \begin{frame}{Can we do better?}
+      \note{
+        The pattern is different for men and women---beauty makes more of \textCR
+        a difference for men. We probably will not have time to go into it\textCR
+        any further; this is just to whet students' appetite for what is possible.
+      }
+      Do you see a difference between men (blue) and women (red)?
+
+      <<echo=F, message=F>>=
+      plot(eval ~ beauty, col=ifelse(gender == "male", "lightblue", "lightcoral"), ylab='Average student evaluation', xlab='Beauty', pch=16, data=TeachingRatings)
+      abline(lm(eval ~ beauty, data=subset(TeachingRatings, gender == "male")), col="lightblue", lwd=3)
+      abline(lm(eval ~ beauty, data=subset(TeachingRatings, gender == "female")), col="lightcoral", lwd=3)
       @
     \end{frame}
 
