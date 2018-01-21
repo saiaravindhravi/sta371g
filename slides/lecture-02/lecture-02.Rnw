@@ -8,15 +8,20 @@
 \author{STA 371G}
 
 \begin{document}
-<<setup, include=F, cache=F>>=
-opts_knit$set(global.par=T)
-knit_hooks$set(crop=hook_pdfcrop)
-opts_chunk$set(dev='tikz', external=F, fig.path='/tmp/figures/', comment=NA, fig.width=4, fig.height=3, crop=T, tidy.opts=list(width.cutoff=50),tidy=TRUE)
-knit_theme$set('camo')
-@
+  <<setup, include=F, cache=F>>=
+  opts_knit$set(global.par=T)
+  knit_hooks$set(crop=hook_pdfcrop)
+  opts_chunk$set(dev='tikz', external=F, fig.path='/tmp/figures/', comment=NA, fig.width=4, fig.height=3, crop=T, sanitize=T, prompt=T, tidy=F)
+  knit_theme$set('camo')
+  @
 <<include=F, cache=F>>=
 par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar=c(5.1, 4.1, 1.1, 2.1))
 @
+<<include=F>>=
+  library(readr)
+titanic <- read_csv("../../data/titanic.csv")
+@
+
 
   \frame{\maketitle}
 
@@ -42,7 +47,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
 
       \begin{center}
         \includegraphics[width=4in]{RStudio}
-      \end{center} \pause
+      \end{center} 
     \end{frame}
 
     
@@ -120,17 +125,141 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
     
     
     
-    \begin{frame}[fragile]{Getting help}
+    \begin{frame}[fragile]{Working with tabular data}
       \fontsize{10}{10}\selectfont
-      So we used the "sum" function. How can we learn more about its usage and options? \pause
-      \bigskip
+      Many data sets we will work with are in tabular format, saved in .csv files. \pause
       
-      R has a help command that gives all the details about R functions & packages. \pause
-      
-      \bigskip
-      Simply type "help(sum)" in the console...
+      Let's analyze the passenger data from the Titanic disaster.
+      \begin{center}
+        \includegraphics[width=4in]{titanic}
+      \end{center} 
     
     
+    \end{frame}
+    
+    
+    
+    \begin{frame}[fragile]{Working with tabular data}
+      \fontsize{10}{10}\selectfont
+      In order to see the table, use "View(titanic)". \pause
+      
+      \bigskip
+      
+      "\$" sign is used to refer to a particular column in the data, such as "titanic\$Name".   \pause
+      
+      \bigskip
+      
+      To access to an element in a particular position, e.g., row 1, column 4, use "titanic[1,4]".
+      
+    
+    \end{frame}
+    
+    
+    \begin{frame}[fragile]{Exploring Categorical Variables}  
+      \fontsize{10}{10}\selectfont
+      The dataset has both quantitative and categorical data. \pause
+      
+      Let's explore the categorical variables through some frequency tables. \pause
+      
+      Below is the number of passengers in each class.
+      
+      <<>>=
+        table(titanic$PClass)
+        @
+      
+    \end{frame}  
+    
+    
+    \begin{frame}[fragile]{Exploring Categorical Variables} 
+      \fontsize{10}{10}\selectfont
+      What is more interesting is how many people survived in each passenger class. \pause
+      <<>>=
+        class_survival <- table(titanic$Survived, titanic$PClass)
+        class_survival
+      @
+    \end{frame}
+    
+    
+    \begin{frame}[fragile]{Exploring Categorical Variables}
+      \fontsize{10}{10}\selectfont
+      To get a better sense of the data, let's calculate the survival percentage for each passenger class.
+      <<>>=
+        prop.table(class_survival,2)
+      @
+      \pause
+      It looks like one's chance of survival highly depended on his/her passenger class...
+    \end{frame}
+    
+    
+    
+    \begin{frame}[fragile]{Slicing the data}
+      \fontsize{10}{10}\selectfont
+      One very common operation is slicing the data, i.e., selecting the portion that satisfy certain conditions. \pause
+      
+      \bigskip
+      For example, we can select the rows that belong to female passenger data.
+     <<>>=
+        female_psg <- titanic[titanic$Sex=='female',]
+      @
+      \pause
+      
+      This means: in the titanic dataset, select rows where the "Sex" is "female", select all columns, and save the resulting table to "female\_psg" variable.
+
+    \end{frame}
+    
+    
+    
+    
+    \begin{frame}[fragile]{Slicing the data}
+      \fontsize{10}{10}\selectfont
+      We can create more complex conditions.
+      
+      <<>>=
+        female_psg_1st <- titanic[(titanic$Sex=='female') & 
+                                      (titanic$PClass=='1st'),]
+      @
+    
+    \end{frame}
+    
+    
+    
+    
+    \begin{frame}[fragile]{Cleaning the data}
+      \fontsize{10}{10}\selectfont
+      If you want to analyze the "Age" data, you will realize rows with "NA", meaning Not Available. \pause
+      
+      \bigskip
+      Let's select rows where we have age data available.
+      
+      <<>>=
+        titanic_age <- titanic[!is.na(titanic$Age),]
+      @
+      \pause
+      This selects rows where the Age value is not "NA".
+      
+    \end{frame}  
+    
+    
+    
+    \begin{frame}[fragile]{Exploring quantitative data}
+      \fontsize{10}{10}\selectfont
+      Let's look into age distribution of the passengers.
+      
+      <<fig.height=2>>=
+      hist(titanic_age$Age, col='green', main='')
+      @
+      
+    \end{frame}
+    
+    
+        \begin{frame}[fragile]{Exploring quantitative data}
+      \fontsize{10}{10}\selectfont
+      Another way to look into it, by using a boxplot and compare between passenger classes.
+      
+      <<fig.height=2>>=
+      boxplot(Age ~ PClass, data=titanic, col='green', main='')
+      @
+      
     \end{frame}
     
     
@@ -139,3 +268,4 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
   \end{darkframes}
 
 \end{document}
+

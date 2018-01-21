@@ -1,0 +1,1314 @@
+,Name,PClass,Age,Sex,Survived
+1,"Allen, Miss Elisabeth Walton",1st,29,female,Yes
+2,"Allison, Miss Helen Loraine",1st,2,female,No
+3,"Allison, Mr Hudson Joshua Creighton",1st,30,male,No
+4,"Allison, Mrs Hudson JC (Bessie Waldo Daniels)",1st,25,female,No
+5,"Allison, Master Hudson Trevor",1st,0.92,male,Yes
+6,"Anderson, Mr Harry",1st,47,male,Yes
+7,"Andrews, Miss Kornelia Theodosia",1st,63,female,Yes
+8,"Andrews, Mr Thomas, jr",1st,39,male,No
+9,"Appleton, Mrs Edward Dale (Charlotte Lamson)",1st,58,female,Yes
+10,"Artagaveytia, Mr Ramon",1st,71,male,No
+11,"Astor, Colonel John Jacob",1st,47,male,No
+12,"Astor, Mrs John Jacob (Madeleine Talmadge Force)",1st,19,female,Yes
+13,"Aubert, Mrs Leontine Pauline",1st,NA,female,Yes
+14,"Barkworth, Mr Algernon H",1st,NA,male,Yes
+15,"Baumann, Mr John D",1st,NA,male,No
+16,"Baxter, Mrs James (Helene DeLaudeniere Chaput)",1st,50,female,Yes
+17,"Baxter, Mr Quigg Edmond",1st,24,male,No
+18,"Beattie, Mr Thomson",1st,36,male,No
+19,"Beckwith, Mr Richard Leonard",1st,37,male,Yes
+20,"Beckwith, Mrs Richard Leonard (Sallie Monypeny)",1st,47,female,Yes
+21,"Behr, Mr Karl Howell",1st,26,male,Yes
+22,"Birnbaum, Mr Jakob",1st,25,male,No
+23,"Bishop, Mr Dickinson H",1st,25,male,Yes
+24,"Bishop, Mrs Dickinson H (Helen Walton)",1st,19,female,Yes
+25,"Bjornstrm-Steffansson, Mr Mauritz Hakan",1st,28,male,Yes
+26,"Blackwell, Mr Stephen Weart",1st,45,male,No
+27,"Blank, Mr Henry",1st,39,male,Yes
+28,"Bonnell, Miss Caroline",1st,30,female,Yes
+29,"Bonnell, Miss Elizabeth",1st,58,female,Yes
+30,"Borebank, Mr John James",1st,NA,male,No
+31,"Bowen, Miss Grace Scott",1st,45,female,Yes
+32,"Bowerman, Miss Elsie Edith",1st,22,female,Yes
+33,"Bradley, Mr George",1st,NA,male,Yes
+34,"Brady, Mr John Bertram",1st,41,male,No
+35,"Brandeis, Mr Emil",1st,48,male,No
+36,"Brewe, Dr Arthur Jackson",1st,NA,male,No
+37,"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",1st,44,female,Yes
+38,"Brown, Mrs John Murray (Caroline Lane Lamson)",1st,59,female,Yes
+39,"Bucknell, Mrs William Robert (Emma Eliza Ward)",1st,60,female,Yes
+40,"Butt, Major Archibald Willingham",1st,45,male,No
+41,"Calderhead, Mr Edward P",1st,NA,male,Yes
+42,"Candee, Mrs Edward (Helen Churchill Hungerford)",1st,53,female,Yes
+43,"Cardeza, Mrs James Warburton Martinez (Charlotte Wardle Drake)",1st,58,female,Yes
+44,"Cardeza, Mr Thomas Drake Martinez",1st,36,male,Yes
+45,"Carlsson, Mr Frans Olof",1st,33,male,No
+46,"Carrau, Mr Francisco M",1st,NA,male,No
+47,"Carrau, Mr Jose Pedro",1st,NA,male,No
+48,"Carter, Mr William Ernest",1st,36,male,Yes
+49,"Carter, Mrs William Ernest (Lucile Polk)",1st,36,female,Yes
+50,"Carter, Miss Lucile Polk",1st,14,female,Yes
+51,"Carter, Master William T II",1st,11,male,Yes
+52,"Case, Mr Howard Brown",1st,49,male,No
+53,"Cassebeer, Mrs Henry Arthur jr (Genevieve Fosdick)",1st,NA,female,Yes
+54,"Cavendish, Mr Tyrell William",1st,36,male,No
+55,"Cavendish, Mrs Tyrell William Julia Florence Siegel",1st,NA,female,Yes
+56,"Chaffee, Mr Herbert Fuller",1st,46,male,No
+57,"Chaffee, Mrs Herbert Fuller (Carrie Constance Toogood)",1st,47,female,Yes
+58,"Chambers, Mr Norman Campbell",1st,27,male,Yes
+59,"Chambers, Mrs Norman Campbell (Bertha Griggs)",1st,31,female,Yes
+60,"Cherry, Miss Gladys",1st,NA,female,Yes
+61,"Chevre, Mr Paul",1st,NA,male,Yes
+62,"Chibnall (Bowerman), Mrs Edith Martha",1st,NA,female,Yes
+63,"Chisholm, Mr Roderick Robert",1st,NA,male,No
+64,"Clark, Mr Walter Miller",1st,27,male,No
+65,"Clark, Mrs Walter Miller (Virginia McDowell)",1st,26,female,Yes
+66,"Clifford, Mr George Quincy",1st,NA,male,No
+67,"Colley, Mr Edward Pomeroy",1st,NA,male,No
+68,"Compton, Mrs Alexander Taylor (Mary Eliza Ingersoll)",1st,64,female,Yes
+69,"Compton, Mr Alexander Taylor, Jr",1st,37,male,No
+70,"Compton, Miss Sara Rebecca",1st,39,female,Yes
+71,"Cornell, Mrs Robert Clifford (Malvina Helen Lamson)",1st,55,female,Yes
+72,"Crafton, Mr John Bertram",1st,NA,male,No
+73,"Crosby, Captain Edward Gifford",1st,70,male,No
+74,"Crosby, Mrs Edward Gifford (Catherine Elizabeth Halstead)",1st,69,female,Yes
+75,"Crosby, Miss Harriet R",1st,36,female,Yes
+76,"Cumings, Mr John Bradley",1st,39,male,No
+77,"Cumings, Mrs John Bradley (Florence Briggs Thayer)",1st,38,female,Yes
+78,"Daly, Mr Peter Denis ",1st,NA,male,Yes
+79,"Daniel, Mr Robert Williams",1st,27,male,Yes
+80,"Davidson, Mr Thornton",1st,31,male,No
+81,"Davidson, Mrs Thornton (Orian Hays)",1st,27,female,Yes
+82,"de Villiers, Madame Berthe",1st,NA,female,Yes
+83,"Dick, Mr Albert Adrian",1st,31,male,Yes
+84,"Dick, Mrs Albert Adrian Vera Gillespie",1st,17,female,Yes
+85,"Dodge, Dr Washington",1st,NA,male,Yes
+86,"Dodge, Mrs Washington (Ruth Vidaver)",1st,NA,female,Yes
+87,"Dodge, Master Washington",1st,4,male,Yes
+88,"Douglas, Mrs Frederick Charles (Suzette Baxter)",1st,27,female,Yes
+89,"Douglas, Mr Walter Donald",1st,50,male,No
+90,"Douglas, Mrs Walter Donald (Mahala Dutton)",1st,48,female,Yes
+91,"Duff Gordon, Sir Cosmo Edmund",1st,49,male,Yes
+92,"Duff Gordon, Lady (Lucille Wallace Sutherland)",1st,48,female,Yes
+93,"Dulles, Mr William Crothers",1st,39,male,No
+94,"Earnshaw, Mrs Boulton (Olive Potter)",1st,23,female,Yes
+95,"Eustis, Miss Elizabeth Mussey",1st,53,female,Yes
+96,"Evans, Miss Edith Corse",1st,36,female,No
+97,"Flegenheim, Mrs Alfred (Antoinette)",1st,NA,female,Yes
+98,"Flynn, Mr John Irving",1st,NA,male,Yes
+99,"Foreman, Mr Benjamin Laventall",1st,30,male,No
+100,"Fortune, Miss Alice Elizabeth",1st,24,female,Yes
+101,"Fortune, Mr Charles Alexander",1st,19,male,No
+102,"Fortune, Miss Ethel Flora",1st,28,female,Yes
+103,"Fortune, Miss Mabel",1st,23,female,Yes
+104,"Fortune, Mr Mark",1st,64,male,No
+105,"Fortune, Mrs Mark (Mary McDougald)",1st,60,female,Yes
+106,"Franklin, Mr Thomas Parham",1st,NA,male,No
+107,"Frauenthal, Dr Henry William",1st,49,male,Yes
+108,"Frauenthal, Mrs Henry William (Clara Heinsheimer)",1st,NA,female,Yes
+109,"Frauenthal, Mr Isaac Gerald",1st,44,male,Yes
+110,"Frolicher, Miss Marguerite",1st,22,female,Yes
+111,"Frolicher-Stehli, Mr Maxmillian",1st,60,male,Yes
+112,"Frolicher-Stehli, Mrs Maxmillian (Margaretha Emerentia Stehli)",1st,48,female,Yes
+113,"Futrelle, Mr Jacques",1st,37,male,No
+114,"Futrelle, Mrs Jacques (May Peel)",1st,35,female,Yes
+115,"Gee, Mr Arthur H",1st,47,male,No
+116,"Gibson, Miss Dorothy",1st,22,female,Yes
+117,"Gibson, Mrs Leonard (Pauline C Boeson)",1st,45,female,Yes
+118,"Goldenberg, Mr Samuel L",1st,49,male,Yes
+119,"Goldenberg, Mrs Samuel L (Edwiga Grabowsko)",1st,NA,female,Yes
+120,"Goldschmidt, Mr George B",1st,71,male,No
+121,"Gracie, Colonel Archibald IV",1st,54,male,Yes
+122,"Graham, Mr George Edward",1st,38,male,No
+123,"Graham, Miss Margaret Edith",1st,19,female,Yes
+124,"Graham, Mrs William Thompson (Edith Junkins)",1st,58,female,Yes
+125,"Greenfield, Mrs Leo David (Blanche Strouse)",1st,45,female,Yes
+126,"Greenfield, Mr William Bertram",1st,23,male,Yes
+127,"Guggenheim, Mr Benjamin",1st,46,male,No
+128,"Harder, Mr George Achilles",1st,25,male,Yes
+129,"Harder, Mrs George Achilles (Dorothy Annan)",1st,21,female,Yes
+130,"Harper, Mr Henry Sleeper",1st,48,male,Yes
+131,"Harper, Mrs Henry Sleeper (Myna Haxtun)",1st,49,female,Yes
+132,"Harris, Mr Henry Birkhardt",1st,45,male,No
+133,"Harris, Mrs Henry Birkhardt (Irene Wallach)",1st,36,female,Yes
+134,"Hawksford, Mr Walter James",1st,NA,male,Yes
+135,"Hays, Mr Charles Melville",1st,55,male,No
+136,"Hays, Mrs Charles Melville (Clara Jennings Gregg)",1st,52,female,Yes
+137,"Hays, Miss Margaret Bechstein",1st,24,female,Yes
+138,"Head, Mr Christopher",1st,NA,male,No
+139,"Hilliard, Mr Herbert Henry",1st,NA,male,No
+140,"Hipkins, Mr William Edward",1st,NA,male,No
+141,"Hippach, Miss Jean Gertrude",1st,16,female,Yes
+142,"Hippach, Mrs Louis Albert (Ida Sophia Fischer)",1st,44,female,Yes
+143,"Hogeboom, Mrs John C (Anna Andrews)",1st,51,female,Yes
+144,"Holverson, Mr Alexander Oskar",1st,42,male,No
+145,"Holverson, Mrs Alexander Oskar (Mary Aline Towner)",1st,35,female,Yes
+146,"Homer, Mr Harry",1st,35,male,Yes
+147,"Hoyt, Mr Frederick Maxfield",1st,38,male,Yes
+148,"Hoyt, Mrs Frederick Maxfield (Jane Anne Forby)",1st,35,female,Yes
+149,"Hoyt, Mr William F",1st,NA,male,No
+150,"Isham, Miss Anne Elizabeth",1st,50,female,No
+151,"Ismay, Mr Joseph Bruce",1st,49,male,Yes
+152,"Jones, Mr Charles Cresson",1st,46,male,No
+153,"Julian, Mr Henry Forbes",1st,NA,male,No
+154,"Kent, Mr Edward Austin",1st,58,male,No
+155,"Kenyon, Mr Frederick R",1st,41,male,No
+156,"Kenyon, Mrs Frederick R (Marion)",1st,NA,female,Yes
+157,"Kimball, Mr Edwin Nelson Jr",1st,42,male,Yes
+158,"Kimball, Mrs Edwin Nelson Jr (Gertrude Parsons)",1st,40,female,Yes
+159,"Klaber, Mr Herman",1st,NA,male,No
+160,"Leader, Dr Alice Farnham",1st,NA,female,Yes
+161,"Lewy, Mr Ervin G",1st,NA,male,No
+162,"Lindeberg-Lind, Mr Erik Gustaf",1st,42,male,No
+163,"Lindstrom, Mrs Carl Johan (Sigrid Posse)",1st,55,female,Yes
+164,"Lines, Mrs Ernest H (Elizabeth Lindsey James)",1st,50,female,Yes
+165,"Lines, Miss Mary Conover",1st,16,female,Yes
+166,"Lingrey, Mr Edward",1st,NA,male,No
+167,"Long, Mr Milton Clyde",1st,29,male,No
+168,"Longley, Miss Gretchen Fiske",1st,21,female,Yes
+169,"Loring, Mr Joseph Holland",1st,30,male,No
+170,"Madill, Miss Georgette Alexandra",1st,15,female,Yes
+171,"Maguire, Mr John Edward",1st,30,male,No
+172,"Marechal, Mr Pierre",1st,NA,male,Yes
+173,"Marvin, Mr Daniel Warner",1st,NA,male,No
+174,"Marvin, Mrs Daniel Warner (Mary Graham Carmichael Farquarson)",1st,NA,female,Yes
+175,"McCaffry, Mr Thomas Francis",1st,46,male,No
+176,"McCarthy, Mr Timothy J",1st,54,male,No
+177,"McGough, Mr James R",1st,36,male,Yes
+178,"Meyer, Mr Edgar Joseph",1st,28,male,No
+179,"Meyer, Mrs Edgar Joseph (Leila Saks)",1st,NA,female,Yes
+180,"Millet, Mr Francis Davis",1st,65,male,No
+181,"Minahan, Miss Daisy E",1st,33,female,Yes
+182,"Minahan, Dr William Edward",1st,44,male,No
+183,"Minahan, Mrs William Edward (Lillian E Thorpe)",1st,37,female,Yes
+184,"Mock, Mr Philip E",1st,NA,male,Yes
+185,"Molson, Mr Harry Markland",1st,55,male,No
+186,"Moore, Mr Clarence Bloomfield",1st,47,male,No
+187,"Natsch, Mr Charles H",1st,36,male,No
+188,"Newell, Mr Arthur Webster",1st,58,male,No
+189,"Newell, Miss Madeleine",1st,31,female,Yes
+190,"Newell, Miss Marjorie",1st,23,female,Yes
+191,"Newsom, Miss Helen Monypeny",1st,19,female,Yes
+192,"Nicholson, Mr Arthur Ernest",1st,64,male,No
+193,"Omont, Mr A Fernand",1st,NA,male,Yes
+194,"Ostby, Mr Engelhart Cornelius",1st,64,male,No
+195,"Ostby, Miss Helen Raghnild",1st,22,female,Yes
+196,"Ovies y Rodriguez, Mr Servando",1st,28,male,No
+197,"Parr, Mr William Henry Marsh",1st,NA,male,No
+198,"Partner, Mr Austin",1st,NA,male,No
+199,"Payne, Mr Vivian Ponsonby",1st,22,male,No
+200,"Pears, Mr Thomas",1st,NA,male,No
+201,"Pears, Mrs Thomas (Edith)",1st,NA,female,Yes
+202,"Penasco, Mr Victor de Satode",1st,18,male,No
+203,"Penasco, Mrs Victor de Satode (Josefa de Soto)",1st,17,female,Yes
+204,"Peuchen, Major Arthur Godfrey",1st,52,male,Yes
+205,"Porter, Mr Walter Chamberlain",1st,46,male,No
+206,"Potter, Mrs Thomas, Jr (Lily Alexenia Wilson)",1st,56,female,Yes
+207,"Reuchlin, Jonkheer John George",1st,NA,male,No
+208,"Rheims, Mr George Lucien",1st,NA,male,Yes
+209,"Robert, Mrs Edward Scott (Elisabeth Walton McMillan)",1st,43,female,Yes
+210,"Roebling, Mr Washington Augustus 2nd",1st,31,male,No
+211,"Romaine, Mr Charles Hallace",1st,NA,male,Yes
+212,"Rood, Mr Hugh R",1st,NA,male,No
+213,"Rosenbaum (Russell), Miss Edith Louise",1st,33,female,Yes
+214,"Ross, Mr John Hugo",1st,NA,male,No
+215,"Rothes, the Countess of (Noel Lucy Martha Dyer-Edwardes)",1st,27,female,Yes
+216,"Rothschild, Mr Martin",1st,55,male,No
+217,"Rothschild, Mrs Martin (Elizabeth L Barrett)",1st,54,female,Yes
+218,"Rowe, Mr Alfred G",1st,NA,male,No
+219,"Ryerson, Mr Arthur Larned",1st,61,male,No
+220,"Ryerson, Mrs Arthur Larned (Emily Maria Borie)",1st,48,female,Yes
+221,"Ryerson, Miss Emily Borie",1st,18,female,Yes
+222,"Ryerson, Master John Borie",1st,13,male,Yes
+223,"Ryerson, Miss Susan (Suzette) Parker",1st,21,female,Yes
+224,"Saalfeld, Mr Adolphe",1st,NA,male,Yes
+225,"Salomon, Mr Abraham L",1st,NA,male,Yes
+226,"Schabert, Mrs Paul (Emma Mock)",1st,NA,female,Yes
+227,"Seward, Mr Frederic Kimber",1st,34,male,Yes
+228,"Shutes, Miss Elizabeth W",1st,40,female,Yes
+229,"Silverthorne, Mr Spencer Victor",1st,36,male,Yes
+230,"Silvey, Mr William Baird",1st,50,male,No
+231,"Silvey, Mrs William Baird (Alice Munger)",1st,39,female,Yes
+232,"Simonius-Blumer, Col Alfons",1st,56,male,Yes
+233,"Sloper, Mr William Thompson",1st,28,male,Yes
+234,"Smart, Mr John Montgomery",1st,56,male,No
+235,"Smith, Mr James Clinch",1st,56,male,No
+236,"Smith, Mr Lucien Philip",1st,24,male,No
+237,"Smith, Mrs Lucien Philip (Mary Eloise Hughes",1st,18,female,Yes
+238,"Smith, Mr Richard William",1st,NA,male,No
+239,"Snyder, Mr John Pillsbury",1st,24,male,Yes
+240,"Snyder, Mrs John Pillsbury (Nelle Stevenson)",1st,23,female,Yes
+241,"Spedden, Mr Frederick Oakley",1st,45,male,Yes
+242,"Spedden, Mrs Frederick Oakley (Margaretta Corning Stone)",1st,40,female,Yes
+243,"Spedden, Master Robert Douglas",1st,6,male,Yes
+244,"Spencer, Mr William Augustus",1st,57,male,No
+245,"Spencer, Mrs William Augustus (Marie Eugenie)",1st,NA,female,Yes
+246,"Staehlin, Dr Max",1st,32,male,Yes
+247,"Stead, Mr William Thomas",1st,62,male,No
+248,"Stengel, Mr Charles Emil Henry",1st,54,male,Yes
+249,"Stengel, Mrs Charles Emil Henry (Annie May Morris)",1st,43,female,Yes
+250,"Stephenson, Mrs Walter Bertram (Martha Eustis)",1st,52,female,Yes
+251,"Stewart, Mr Albert A",1st,NA,male,No
+252,"Stone, Mrs George Nelson (Martha E)",1st,62,female,Yes
+253,"Straus, Mr Isidor",1st,67,male,No
+254,"Straus, Mrs Isidor (Ida Blun)",1st,63,female,No
+255,"Sutton, Mr Frederick",1st,61,male,No
+256,"Swift, Mrs Frederick Joel (Margaret Welles Barron)",1st,46,female,Yes
+257,"Taussig, Mr Emil",1st,52,male,No
+258,"Taussig, Mrs Emil (Tillie Mandelbaum)",1st,39,female,Yes
+259,"Taussig, Miss Ruth",1st,18,female,Yes
+260,"Taylor, Mr Elmer Zebley",1st,48,male,Yes
+261,"Taylor, Mrs Elmer Zebley (Juliet Cummins Wright)",1st,NA,female,Yes
+262,"Thayer, Mr John Borland",1st,49,male,No
+263,"Thayer, Mrs John Borland (Marian Longstreth Morris)",1st,39,female,Yes
+264,"Thayer, Mr John Borland, jr",1st,17,male,Yes
+265,"Thorne, Mr George (alias of: Mr George Rosenshine)",1st,46,male,No
+266,"Thorne, Mrs Gertrude Maybelle",1st,NA,female,Yes
+267,"Tucker, Mr Gilbert Milligan, jr",1st,31,male,Yes
+268,"Uruchurtu, Mr Manuel E",1st,NA,male,No
+269,"Van Derhoef, Mr Wyckoff",1st,61,male,No
+270,"Walker, Mr William Anderson",1st,47,male,No
+271,"Warren, Mr Frank Manley",1st,64,male,No
+272,"Warren, Mrs Frank Manley (Anna S Atkinson)",1st,60,female,Yes
+273,"Weir, Col John",1st,60,male,No
+274,"White, Mrs J Stuart (Ella Holmes)",1st,55,female,Yes
+275,"White, Mr Percival Wayland",1st,54,male,No
+276,"White, Mr Richard Frasar",1st,21,male,No
+277,"Wick, Mr George Dennick",1st,57,male,No
+278,"Wick, Mrs George Dennick (Martha Hitchcock)",1st,45,female,Yes
+279,"Wick, Miss Mary Natalie",1st,31,female,Yes
+280,"Widener, Mr George Dunton",1st,50,male,No
+281,"Widener, Mrs George Dunton (Eleanor Elkins)",1st,50,female,Yes
+282,"Widener, Mr Harry Elkins",1st,27,male,No
+283,"Willard, Miss Constance",1st,20,female,Yes
+284,"Williams, Mr Charles Duane",1st,51,male,No
+285,"Williams, Mr Fletcher Lambert",1st,NA,male,No
+286,"Williams, Mr Richard Norris II",1st,21,male,Yes
+287,"Woolner, Mr Hugh",1st,NA,male,Yes
+288,"Wright, Mr George",1st,NA,male,No
+289,"Young, Miss Marie Grice",1st,36,female,Yes
+290,"Barber, Ms ",1st,NA,female,Yes
+291,"Bazzani, Ms Albina",1st,NA,female,Yes
+292,"Bidois, Miss Rosalie",1st,NA,female,Yes
+293,"Bird, Ms Ellen",1st,NA,female,Yes
+294,"Bissetti, Ms Amelia",1st,NA,female,Yes
+295,"Burns, Ms Elizabeth Margaret",1st,NA,female,Yes
+296,"Chaudanson, Ms         Victorine",1st,NA,female,Yes
+297,"Cleaver, Ms Alice",1st,NA,female,Yes
+298,"Daniels, Ms Sarah",1st,NA,female,Yes
+299,"Endres, Miss Caroline Louise",1st,NA,female,Yes
+300,"Farthing, Mr John",1st,NA,male,No
+301,"Fleming, Ms Margaret",1st,NA,female,No
+302,"Francatelli, Ms Laura Mabel",1st,NA,female,Yes
+303,"Fry, Mr Richard",1st,NA,male,No
+304,"Geiger, Miss Emily ",1st,NA,female,Yes
+305,"Giglio, Mr Victor",1st,NA,male,No
+306,"Harrington, Mr Charles",1st,NA,male,No
+307,"Harrison, Mr William   Henry",1st,40,male,No
+308,"Hassah, Mr Hamad",1st,NA,male,No
+309,"Icabad (Icabod), Ms",1st,NA,female,Yes
+310,"Keeping, Mr Edwin",1st,32,male,No
+311,"Kenchen, Ms Amelia",1st,NA,female,Yes
+312,"LeRoy, Miss Berthe",1st,NA,female,Yes
+313,"Lesneur, Mr Gustave",1st,NA,male,No
+314,"Maloney, Ms",1st,NA,female,Yes
+315,"Oliva, Mlle",1st,NA,female,No
+316,"Pericault, Ms",1st,NA,female,Yes
+317,"Ringhini, Mr Sante",1st,33,male,No
+318,"Robbins, Mr Victor",1st,NA,male,No
+319,"Segesser, Mlle Emma",1st,NA,female,Yes
+320,"Seredeca, Ms",1st,NA,female,No
+321,"Ward, Ms Anna",1st,NA,female,No
+322,"Wilson, Ms Helen",1st,NA,female,Yes
+323,"Abelson, Mr Samuel",2nd,30,male,No
+324,"Abelson, Mrs Samuel (Anna)",2nd,28,female,Yes
+325,"Andrew, Mr Edgar Samuel",2nd,18,male,No
+326,"Andrew, Mr Frank",2nd,NA,male,No
+327,"Angle, Mr William A",2nd,34,male,No
+328,"Angle, Mrs William A (Florence)",2nd,32,female,Yes
+329,"Ashby, Mr John",2nd,57,male,No
+330,"Bailey, Mr Percy Andrew",2nd,18,male,No
+331,"Baimbrigge, Mr Charles R",2nd,23,male,No
+332,"Balls, Mrs Ada E Hall",2nd,36,female,Yes
+333,"Banfield, Mr Frederick J",2nd,28,male,No
+334,"Bateman, Rev Robert James",2nd,51,male,No
+335,"Beane, Mr Edward",2nd,32,male,Yes
+336,"Beane, Mrs Edward (Ethel Clarke)",2nd,19,female,Yes
+337,"Beauchamp, Mr Henry James",2nd,28,male,No
+338,"Becker, Mrs Allen Oliver (Nellie E Baumgardner)",2nd,36,female,Yes
+339,"Becker, Miss Marion Louise",2nd,4,female,Yes
+340,"Becker, Master Richard F",2nd,1,male,Yes
+341,"Becker, Miss Ruth Elizabeth",2nd,12,female,Yes
+342,"Beesley, Mr Lawrence",2nd,34,male,Yes
+343,"Bentham, Miss Lilian W",2nd,19,female,Yes
+344,"Berriman, Mr William S",2nd,23,male,No
+345,"Botsford, Mr William Hull",2nd,26,male,No
+346,"Bowenur, Mr Solomon",2nd,NA,male,No
+347,"Bracken, Mr James H",2nd,27,male,No
+348,"Brown, Miss Edith E",2nd,15,female,Yes
+349,"Brown, Mr Thomas William Solomon",2nd,45,male,No
+350,"Brown, Mrs Thomas William Solomon (Elizabeth C)",2nd,40,female,Yes
+351,"Bryhl, Miss Dagmar",2nd,20,female,Yes
+352,"Bryhl, Mr Kurt Arnold Gottfrid",2nd,25,male,No
+353,"Buss, Miss Kate",2nd,36,female,Yes
+354,"Butler, Mr Reginald Fenton",2nd,25,male,No
+355,"Byles, Rev Thomas Roussel D",2nd,NA,male,No
+356,"Bystrom, Mrs Carolina",2nd,42,female,Yes
+357,"Caldwell, Mr Albert Francis",2nd,26,male,Yes
+358,"Caldwell, Mrs Albert Francis (Sylvia Mae Harbaugh)",2nd,26,female,Yes
+359,"Caldwell, Master Alden Gates",2nd,0.83,male,Yes
+360,"Cameron, Miss Clear",2nd,31,female,Yes
+361,"Campbell, Mr William",2nd,NA,male,No
+362,"Carbines, Mr William",2nd,19,male,No
+363,"Carter, Rev Ernest Courtenay",2nd,54,male,No
+364,"Carter, Mrs Ernest Courtenay (Lillian Hughes)",2nd,44,female,No
+365,"Chapman, Mr Charles Henry",2nd,52,male,No
+366,"Chapman, Mr John Henry",2nd,30,male,No
+367,"Chapman, Mrs John Henry (Elizabeth Lawry)",2nd,30,female,No
+368,"Christy, Mrs Alice Frances",2nd,NA,female,Yes
+369,"Christy, Miss Julie",2nd,NA,female,Yes
+370,"Clarke, Mr Charles V",2nd,29,male,No
+371,"Clarke, Mrs Charles V (Ada Maria)",2nd,NA,female,Yes
+372,"Coleridge, Mr Reginald Charles",2nd,29,male,No
+373,"Collander, Mr Erik",2nd,27,male,No
+374,"Collett, Mr Sidney C Stuart",2nd,24,male,Yes
+375,"Collyer, Mr Harvey",2nd,35,male,No
+376,"Collyer, Mrs Harvey (Charlotte Tate)",2nd,31,female,Yes
+377,"Collyer, Miss Marjorie",2nd,8,female,Yes
+378,"Cook, Mrs Selena Rogers",2nd,22,female,No
+379,"Corbett, Mrs Walter H (Irene Colvin)",2nd,30,female,No
+380,"Corey, Mrs Percy C (Mary Phyllis Elizabeth Miller)",2nd,NA,female,No
+381,"Cotterill, Mr Harry",2nd,20,male,No
+382,"Cunningham, Mr Alfred Fleming",2nd,NA,male,No
+383,"Davies, Mr Charles Henry",2nd,21,male,No
+384,"Davis, Mrs Agnes",2nd,49,female,Yes
+385,"Davis, Master John Morgan",2nd,8,male,Yes
+386,"Davis, Miss Mary",2nd,28,female,Yes
+387,"Deacon, Mr Percy",2nd,18,male,No
+388,"de Brito, Mr Jose Joaquim",2nd,NA,male,No
+389,"del Carlo, Mr Sebastiano",2nd,28,male,No
+390,"del Carlo, Mrs Sebastiano (Argenia Genovese)",2nd,22,female,Yes
+391,"Denbury, Mr Herbert",2nd,25,male,No
+392,"Dibden, Mr William",2nd,18,male,No
+393,"Doling, Mrs Ada",2nd,32,female,Yes
+394,"Doling, Miss Elsie",2nd,18,female,Yes
+395,"Downton (?Douton), Mr William James",2nd,NA,male,No
+396,"Drew, Mr James Vivian",2nd,42,male,No
+397,"Drew, Mrs James Vivian (Lulu Thorne Christian)",2nd,34,female,Yes
+398,"Drew, Master Marshall Brines",2nd,8,male,Yes
+399,"Duran y More, Miss Asuncion",2nd,NA,female,Yes
+400,"Duran y More, Miss Florentina",2nd,NA,female,Yes
+401,"Eitemiller, Mr George Floyd",2nd,23,male,No
+402,"Enander, Mr Ingvar",2nd,21,male,No
+403,"Fahlstrom, Mr Arne Jonas",2nd,19,male,No
+404,"Faunthorpe, Mr Harry",2nd,NA,male,No
+405,"Faunthorpe, Mrs Lizzie (see Wilkinson, E)",2nd,NA,female,Yes
+406,"Fillbrook, Mr Charles",2nd,NA,male,No
+407,"Fox, Mr Stanley H",2nd,38,male,No
+408,"Frost, Mr Anthony (Archie) W",2nd,NA,male,No
+409,"Funk, Miss Annie C",2nd,38,female,No
+410,"Fynney, Mr Joseph J",2nd,35,male,No
+411,"Gale, Mr Harry",2nd,35,male,No
+412,"Gale, Mr Shadrach",2nd,38,male,No
+413,"Garside, Miss Ethel",2nd,24,female,Yes
+414,"Gaskell, Mr Alfred",2nd,16,male,No
+415,"Gavey, Mr Lawrence",2nd,26,male,No
+416,"Gilbert, Mr William",2nd,45,male,No
+417,"Giles, Mr Edgar",2nd,24,male,No
+418,"Giles, Mr Frederick",2nd,21,male,No
+419,"Giles, Mr Ralph",2nd,22,male,No
+420,"Gill, Mr John W",2nd,NA,male,No
+421,"Gillespie, Mr William",2nd,34,male,No
+422,"Givard, Mr Hans Christensen",2nd,30,male,No
+423,"Greenberg, Mr Samuel",2nd,50,male,No
+424,"Hale, Mr Reginald",2nd,30,male,No
+425,"Hamalainen, Mrs William (Anna)",2nd,23,female,Yes
+426,"Hamalainen, Master Viljo",2nd,1,male,Yes
+427,"Harbeck, Mr William H",2nd,44,male,No
+428,"Harper, Rev John",2nd,28,male,No
+429,"Harper, Miss Nina",2nd,6,female,Yes
+430,"Harris, Mr George",2nd,30,male,Yes
+431,"Harris, Mr Walter",2nd,NA,male,No
+432,"Hart, Mr Benjamin",2nd,43,male,No
+433,"Hart, Mrs Benjamin (Esther)",2nd,45,female,Yes
+434,"Hart, Miss Eva Miriam",2nd,7,female,Yes
+435,"Herman, Miss Alice",2nd,24,female,Yes
+436,"Herman, Miss Kate",2nd,24,female,Yes
+437,"Herman, Mr Samuel",2nd,49,male,No
+438,"Herman, Mrs Samuel (Jane Laver)",2nd,48,female,Yes
+439,"Hewlett, Mrs Mary D",2nd,NA,female,Yes
+440,"Hickman, Mr Leonard Mark",2nd,34,male,No
+441,"Hickman, Mr Lewis",2nd,32,male,No
+442,"Hickman, Mr Stanley George",2nd,21,male,No
+443,"Hiltunen, Miss Marta",2nd,18,female,No
+444,"Hocking, Mrs Elizabeth",2nd,53,female,Yes
+445,"Hocking, Mr George",2nd,23,male,No
+446,"Hocking, Miss Ellen (Nellie)",2nd,21,female,Yes
+447,"Hocking, Mr Samuel James",2nd,NA,male,No
+448,"Hodges, Mr Henry Price",2nd,52,male,No
+449,"Hold, Mr Stephen",2nd,42,male,No
+450,"Hold, Mrs Stephen (Annie Margaret)",2nd,36,female,Yes
+451,"Hood, Mr Ambrose, Jr",2nd,21,male,No
+452,"Hosono, Mr Masafumi",2nd,41,male,Yes
+453,"Howard, Mr Benjamin",2nd,NA,male,No
+454,"Howard, Mrs Benjamin (Ellen Truelove)",2nd,NA,female,No
+455,"Hunt, Mr George Henry",2nd,33,male,No
+456,"Ilett, Miss Bertha",2nd,17,female,Yes
+457,Jacobsohn Mr Samuel,1st,NA,male,No
+458,"Jacobsohn, Mrs Sidney Samuel (Amy Frances Christy)",2nd,NA,female,Yes
+459,"Jarvis, Mr John Denzil",2nd,NA,male,No
+460,"Jefferys, Mr Clifford",2nd,NA,male,No
+461,"Jefferys, Mr Ernest",2nd,NA,male,No
+462,"Jenkin, Mr Stephen Curnow",2nd,NA,male,No
+463,"Jerwan, Mrs Amin S (Marie Thuillard)",2nd,23,female,Yes
+464,"Kantor, Mr Sinai",2nd,34,male,No
+465,"Kantor, Mrs Sinai (Miriam Sternim)",2nd,NA,female,Yes
+466,"Karnes, Mrs J Frank (Claire Bennett)",2nd,22,female,No
+467,"Keane, Mr Daniel",2nd,NA,male,No
+468,"Keane, Miss Nora A",2nd,NA,female,Yes
+469,"Kelly, Mrs Florence (Fannie)",2nd,45,female,Yes
+470,"Kirkland, Rev Charles Leonard",2nd,NA,male,No
+471,"Knight, Mr Robert",2nd,NA,male,No
+472,"Kvillner, Mr Johan Henrik Johannesson",2nd,31,male,No
+473,"Lahtinen, Rev William",2nd,30,male,No
+474,"Lahtinen, Mrs William (Anna Sylvan)",2nd,26,female,No
+475,"Lamb, Mr John James",2nd,NA,male,No
+476,"Lemore, Mrs Amelia",2nd,34,female,Yes
+477,"LaRoche, Mr Joseph",2nd,26,male,No
+478,"LaRoche, Mrs Joseph (Juliet)",2nd,22,female,Yes
+479,"LaRoche, Miss Louise",2nd,1,female,Yes
+480,"LaRoche, Miss Simonne",2nd,3,female,Yes
+481,"Lehmann, Miss Bertha",2nd,NA,female,Yes
+482,"Leitch, Miss Jessie",2nd,NA,female,Yes
+483,"Levy, Mr Rene Jacques",2nd,NA,male,No
+484,"Leyson, Mr Robert William Norman",2nd,25,male,No
+485,"Lingan, Mr John",2nd,NA,male,No
+486,"Louch, Mr Charles Alexander",2nd,48,male,No
+487,"Louch, Mrs Charles Alexander (Alice Adelaide)",2nd,NA,female,Yes
+488,"Mack, Mrs Mary",2nd,57,female,No
+489,"Malachard, Mr Noel",2nd,NA,male,No
+490,"Mallet, Mr Albert",2nd,NA,male,No
+491,"Mallet, Mrs Albert (Antoinette)",2nd,NA,female,Yes
+492,"Mallet, Master Andre",2nd,2,male,Yes
+493,"Mangiavacchi, Mr Serafino Emilio",2nd,NA,male,No
+494,"Mantvila, Rev Joseph",2nd,27,male,No
+495,"Marshall, Mrs Kate Louise Phillips",2nd,19,female,Yes
+496,"Matthews, Mr William John",2nd,30,male,No
+497,"Maybery, Mr Frank H",2nd,20,male,No
+498,"McCrae, Mr Arthur Gordon",2nd,45,male,No
+499,"McCrie, Mr James Matthew",2nd,NA,male,No
+500,"McKane, Mr Peter D",2nd,46,male,No
+501,"Mellenger, Mrs Elizabeth Anne",2nd,41,female,Yes
+502,"Mellenger, Miss Madeleine Violet",2nd,13,female,Yes
+503,"Mellor, Mr William John",2nd,19,male,Yes
+504,"Meyer, Mr August",2nd,30,male,No
+505,"Milling, Mr Jacob Christian",2nd,48,male,No
+506,"Mitchell, Mr Henry Michael",2nd,71,male,No
+507,"Moraweck, Dr Ernest",2nd,54,male,No
+508,"Morley, Mr William",2nd,NA,male,No
+509,"Mudd, Mr Thomas C",2nd,NA,male,No
+510,"Myles, Mr Thomas Francis",2nd,64,male,No
+511,"Nasser (Nasrallah), Mr Nicholas",2nd,32,male,No
+512,"Nasser (Nasrallah), Mrs Nicholas",2nd,18,female,Yes
+513,"Navratil, Master Edmond Roger",2nd,2,male,Yes
+514,"Navratil, Mr Michel",2nd,32,male,No
+515,"Navratil, Master Michel M",2nd,3,male,Yes
+516,"Nesson, Mr Israel",2nd,26,male,No
+517,"Nicholls, Mr Joseph Charles",2nd,19,male,No
+518,"Norman, Mr Robert Douglas",2nd,NA,male,No
+519,"Nourney, Mr Alfred (aka Baron von Drachstedt)",2nd,20,male,Yes
+520,"Nye, Mrs Elizabeth Ramell",2nd,29,female,Yes
+521,"Otter, Mr Richard",2nd,39,male,No
+522,"Oxenham, Mr Percy Thomas",2nd,22,male,Yes
+523,"Padro y Manent, Mr Julian",2nd,NA,male,Yes
+524,"Pain, Dr Alfred",2nd,24,male,No
+525,"Pallas y Castello, Mr Emilio",2nd,NA,male,Yes
+526,"Parker, Mr Clifford R",2nd,28,male,No
+527,"Parkes, Mr Francis (Frank)",2nd,NA,male,No
+528,"Parrish, Mrs Lutie Davis",2nd,50,female,Yes
+529,"Pengelly, Mr Frederick",2nd,20,male,No
+530,"Peruschitz, Rev Joseph M",2nd,40,male,No
+531,"Phillips, Miss Alice",2nd,42,female,Yes
+532,"Phillips, Mr Robert",2nd,21,male,No
+533,"Pinsky, Miss Rosa",2nd,32,female,Yes
+534,"Ponesell, Mr Martin",2nd,34,male,No
+535,"Portaluppi, Mr Emilio",2nd,NA,male,Yes
+536,"Pulbaum, Mr Frank",2nd,NA,male,No
+537,"Quick, Mrs Frederick C (Jane Richards)",2nd,33,female,Yes
+538,"Quick, Miss Phyllis May",2nd,2,female,Yes
+539,"Quick, Miss Winifred Vera",2nd,8,female,Yes
+540,"Reeves, Mr David",2nd,36,male,No
+541,"Renouf, Mr Peter Henry",2nd,34,male,No
+542,"Renouf, Mrs Peter Henry (Lillian Jefferys)",2nd,30,female,Yes
+543,"Reynaldo, Mrs Encarnacion",2nd,28,female,Yes
+544,"Richard, Mr Emil",2nd,23,male,No
+545,"Richards, Master George Sidney",2nd,0.8,male,Yes
+546,"Richards, Mrs Sidney (Emily Hocking)",2nd,25,female,Yes
+547,"Richards, Master William Rowe",2nd,3,male,Yes
+548,"Ridsdale, Miss Lucy",2nd,50,female,Yes
+549,"Rogers, Mr Harry",2nd,NA,male,No
+550,"Rugg, Miss Emily",2nd,21,female,Yes
+551,"Sedgwick, Mr Charles Frederick Waddington",2nd,NA,male,No
+552,"Sharp, Mr Percival",2nd,NA,male,No
+553,"Shelley, Mrs William (Imanita)",2nd,25,female,Yes
+554,"Silven, Miss Lyyli",2nd,18,female,Yes
+555,"Sincock, Miss Maude",2nd,20,female,Yes
+556,"Siukonnen, Miss Anna",2nd,30,female,Yes
+557,"Sjostedt, Mr Ernst Adolf",2nd,59,male,No
+558,"Slayter, Miss Hilda Mary",2nd,30,female,Yes
+559,"Slemen, Mr Richard James",2nd,35,male,No
+560,"Smith (Schmidt), Mr Augustus",2nd,22,male,No
+561,"Smith, Miss Marion",2nd,NA,female,Yes
+562,"Sobey, Mr Hayden",2nd,25,male,No
+563,"Stanton, Mr Samuel Ward",2nd,41,male,No
+564,"Stokes, Mr Philip Joseph",2nd,25,male,No
+565,"Sweet, Mr George",2nd,14,male,No
+566,"Toomey, Miss Ellen",2nd,50,female,Yes
+567,"Troupiansky, Mr Moses Aaron",2nd,22,male,No
+568,"Trout, Mrs William H (Jessie L)",2nd,NA,female,Yes
+569,"Troutt, Miss Edwina Celia",2nd,27,female,Yes
+570,"Turpin, Mr William John",2nd,29,male,No
+571,"Turpin, Mrs William John (Dorothy Anne Wonnacott)",2nd,27,female,No
+572,"Veale, Mr James",2nd,30,male,No
+573,"Waelens, Mr Achille",2nd,22,male,No
+574,"Walcroft, Miss Nellie",2nd,35,female,Yes
+575,"Ware, Mr John James",2nd,30,male,No
+576,"Ware, Mrs John James (Florence Louise Long)",2nd,28,female,Yes
+577,"Ware, Mr William J",2nd,23,male,No
+578,"Watson, Mr Ennis Hastings",2nd,NA,male,No
+579,"Watt, Miss Bertha",2nd,12,female,Yes
+580,"Watt, Mrs James (Bessie Inglis Milne)",2nd,40,female,Yes
+581,"Webber, Miss Susan",2nd,36,female,Yes
+582,"Weisz, Mr Leopold",2nd,28,male,No
+583,"Weisz, Mrs Leopold (Mathilde)",2nd,32,female,Yes
+584,"Wells, Mrs Arthur H (Addie Trevaskis)",2nd,29,female,Yes
+585,"Wells, Miss Joan",2nd,4,female,Yes
+586,"Wells, Master Ralph Lester",2nd,2,male,Yes
+587,"West, Miss Barbara J",2nd,NA,female,Yes
+588,"West, Miss Constance Mirium",2nd,NA,female,Yes
+589,"West, Mr Edwy Arthur",2nd,36,male,No
+590,"West, Mrs Edwy Arthur (Ada Mary)",2nd,33,female,Yes
+591,"Wheadon, Mr Edward",2nd,NA,male,No
+592,"Wheeler, Mr Edwin",2nd,NA,male,No
+593,"Wheeler, Mr Frederick",2nd,NA,male,No
+594,"Wilhelms, Mr Charles",2nd,32,male,Yes
+595,"Wilkinson, Mrs Elizabeth Anne",2nd,NA,female,Yes
+596,"Williams, Mr Charles Eugene",2nd,NA,male,Yes
+597,"Wright, Miss Marion",2nd,26,female,Yes
+598,"Yrois, Miss Henriette",2nd,NA,female,No
+599,"Aldworth, Mr Charles Augustus",2nd,30,male,No
+600,"Brown, Miss Mildred",2nd,24,female,Yes
+601,"Pernot, Mr Rene",2nd,NA,male,No
+602,"Swane, Mr George",2nd,18,male,No
+603,"Abbing, Mr Anthony",3rd,42,male,No
+604,"Abbott, Master Eugene Joseph",3rd,13,male,No
+605,"Abbott, Mr Rossmore Edward",3rd,16,male,No
+606,"Abbott, Mrs Stanton (Rosa)",3rd,35,female,Yes
+607,"Abelseth, Miss Anna Karen",3rd,16,female,Yes
+608,"Abelseth, Mr Olaus",3rd,25,male,Yes
+609,"Abraham, Mrs Joseph (Sophie Easu)",3rd,18,female,Yes
+610,"Abrahamsson, Mr August",3rd,20,male,Yes
+611,"Adahl, Mr Mauritz Nils Martin",3rd,30,male,No
+612,"Adams, Mr John",3rd,26,male,No
+613,"Ahlin, Mrs Johanna Persdotter",3rd,40,female,No
+614,"Ahmed, Mr Ali",3rd,24,male,No
+615,"Aijo-Nirva, Mr Isak",3rd,41,male,No
+616,"Aks, Mrs Sam (Leah Rosen)",3rd,18,female,Yes
+617,"Aks, Master Philip",3rd,0.83,male,Yes
+618,"Alexander, Mr William",3rd,23,male,No
+619,"Alhomaki, Mr Ilmari Rudolf",3rd,20,male,No
+620,"Ali, Mr William",3rd,25,male,No
+621,"Allen, Mr William Henry",3rd,35,male,No
+622,"Allum, Mr Owen George",3rd,17,male,No
+623,"Andersen, Mr Albert Karvin",3rd,32,male,No
+624,"Andersen, Mr Thor Olsvigen",3rd,20,male,No
+625,"Andersson, Mr Anders Johan",3rd,39,male,No
+626,"Andersson, Mrs Anders Johan (Alfrida K Brogren)",3rd,39,female,No
+627,"Andersson, Miss Ebba Iris",3rd,6,female,No
+628,"Andersson, Miss Ellis Anna Maria",3rd,2,female,No
+629,"Andersson, Miss Erna",3rd,17,female,Yes
+630,"Andersson, Miss Ida Augusta Margareta",3rd,38,female,No
+631,"Andersson, Miss Ingeborg Constancia",3rd,9,female,No
+632,"Andersson, Mr Johan Samuel",3rd,26,male,No
+633,"Andersson, Miss Sigrid Elizabeth",3rd,11,female,No
+634,"Andersson, Master Sigvard Harald Elias",3rd,4,male,No
+635,"Andreasson, Mr Paul Edvin",3rd,20,male,No
+636,"Angheloff, Mr Minko",3rd,26,male,No
+637,"Arnold, Mr Josef",3rd,25,male,No
+638,"Arnold, Mrs Josef (Josephine Frank)",3rd,18,female,No
+639,"Aronsson, Mr Ernst Axel Algot",3rd,24,male,No
+640,"Asim, Mr Adola",3rd,35,male,No
+641,"Asplund, Mr Carl Oscar Vilhelm Gustafsson",3rd,40,male,No
+642,"Asplund, Mrs Carl Oscar (Selma Augusta Johansson)",3rd,38,female,Yes
+643,"Asplund, Master Carl Edgar",3rd,5,male,No
+644,"Asplund, Master Clarence Gustaf Hugo",3rd,9,male,No
+645,"Aspland, Master Edvin Rojj Felix",3rd,3,male,Yes
+646,"Asplund, Master Filip Oscar",3rd,13,male,No
+647,"Asplund, Mr John Charles",3rd,23,male,Yes
+648,"Asplund, Miss Lillian Gertrud",3rd,5,female,Yes
+649,"Assaf, Mr Gerios",3rd,NA,male,No
+650,"Assaf, Mrs Mariana",3rd,45,female,Yes
+651,"Assam, Mr Ali",3rd,23,male,No
+652,"Attalah, Miss Malaka",3rd,17,female,No
+653,"Attala (Kalil), Mr Solomon",3rd,27,male,No
+654,"Augustsson, Mr Albert",3rd,23,male,No
+655,"Baccos, Mr Rafoul",3rd,20,male,No
+656,"Backstrom, Mr Karl Alfred",3rd,32,male,No
+657,"Backstrom, Mrs Karl Alfred (Maria Mathilda Gustafsson)",3rd,33,female,Yes
+658,"Baclini, Miss Eugenie",3rd,3,female,Yes
+659,"Baclini, Miss Helene",3rd,NA,female,Yes
+660,"Baclini, Miss Maria",3rd,NA,female,Yes
+661,"Baclini, Mrs Solomon (Latifa)",3rd,NA,female,Yes
+662,"Badman, Miss Emily Louisa",3rd,18,female,Yes
+663,"Badt, Mr Mohamed",3rd,40,male,No
+664,"Balkic, Mr Cerin",3rd,26,male,No
+665,"Banoura, Miss Ayout",3rd,15,female,Yes
+666,"Barbara, Mrs Catherine",3rd,45,female,No
+667,"Barbara, Miss Saude",3rd,18,female,No
+668,"Barry, Miss Julia",3rd,27,female,No
+669,"Barton, Mr David",3rd,22,male,No
+670,"Beavan, Mr William Thomas",3rd,19,male,No
+671,"Bengtsson, Mr John Viktor",3rd,26,male,No
+672,"Berglund, Mr Karl Ivar Sven",3rd,22,male,No
+673,"Betros, Mr Tannous",3rd,20,male,No
+674,"Bing, Mr Lee",3rd,32,male,Yes
+675,"Birkeland, Mr Hans",3rd,21,male,No
+676,"Bjorklund, Ernst Herbert",3rd,18,male,No
+677,"Bostandyeff, Mr Guentcho",3rd,26,male,No
+678,"Boulos, Master Akar",3rd,6,male,No
+679,"Boulos, Mr Hanna",3rd,NA,male,No
+680,"Boulos, Mrs Joseph (Sultana)",3rd,NA,female,No
+681,"Boulos, Miss Laura",3rd,9,female,No
+682,"Bourke, Mr John",3rd,40,male,No
+683,"Bourke, Mrs John (Catherine)",3rd,32,female,No
+684,"Bourke, Miss Mary",3rd,NA,female,No
+685,"Bowen, Mr David",3rd,26,male,No
+686,"Bradley, Miss Bridget Delia",3rd,18,female,Yes
+687,"Braf, Miss Elin Ester Maria",3rd,20,female,No
+688,"Brahim, Mr Youssef",3rd,NA,male,No
+689,"Braund, Mr Lewis Richard",3rd,29,male,No
+690,"Braund, Mr Owen Harris",3rd,22,male,No
+691,"Brobek, Mr Karl Rudolf",3rd,22,male,No
+692,"Brocklebank, Mr William Alfred",3rd,35,male,No
+693,"Buckley, Mr Daniel",3rd,21,male,Yes
+694,"Buckley, Miss Katherine",3rd,20,female,No
+695,"Burke, Mr Jeremiah",3rd,19,male,No
+696,"Burns, Miss Mary Delia",3rd,18,female,No
+697,"Cacic, Mr Grego",3rd,18,male,No
+698,"Cacic, Mr Luka",3rd,38,male,No
+699,"Cacic, Mr Manda",3rd,NA,male,No
+700,"Cacic, Mr Maria",3rd,30,male,No
+701,"Calic, Mr Peter",3rd,17,male,No
+702,"Canavan, Miss Mary",3rd,21,female,No
+703,"Canavan, Mr Patrick",3rd,21,male,No
+704,"Cann, Mr Ernest",3rd,21,male,No
+705,"Caram (Kareem), Mr Joseph",3rd,NA,male,No
+706,"Caram (Kareem), Mrs Joseph (Maria Elias)",3rd,NA,female,No
+707,"Carlsson, Mr Carl Robert",3rd,24,male,No
+708,"Carlsson, Mr Frans Olof",3rd,33,male,No
+709,"Carlsson, Mr Julius",3rd,33,male,No
+710,"Carlsson, Mr August Sigfrid",3rd,28,male,No
+711,"Carr, Miss Helen",3rd,16,female,Yes
+712,"Carr, Miss Jeannie",3rd,37,female,No
+713,"Carver, Mr Alfred John",3rd,28,male,No
+714,"Cassem, Mr Nassef Belmenly",3rd,NA,male,Yes
+715,"Celotti, Mr Francesco",3rd,24,male,No
+716,"Chartens, Mr David",3rd,21,male,No
+717,"Chebab, Mr Emir Farres",3rd,NA,male,No
+718,"Chip, Mr Chang",3rd,32,male,No
+719,"Christmann, Mr Emil",3rd,29,male,No
+720,"Chronopoulos, Mr Apostolos",3rd,26,male,No
+721,"Chronopoulos, Mr Demetrios",3rd,18,male,No
+722,"Coelho, Mr Domingos Fernandes",3rd,20,male,No
+723,"Cohen, Mr Gurshon (Gus)",3rd,19,male,Yes
+724,"Colbert, Mr Patrick",3rd,24,male,No
+725,"Coleff, Mr Fotio",3rd,24,male,No
+726,"Coleff, Mr Peyo",3rd,36,male,No
+727,"Conlin, Mr Thomas Henry",3rd,31,male,No
+728,"Connaghton, Mr Michael",3rd,31,male,No
+729,"Connolly, Miss Kate",3rd,30,female,No
+730,"Connolly, Miss Kate",3rd,22,female,Yes
+731,"Connors, Mr Patrick",3rd,NA,male,No
+732,"Cook, Mr Jacob",3rd,43,male,No
+733,"Cor, Mr Bartol",3rd,35,male,No
+734,"Cor, Mr Ivan",3rd,27,male,No
+735,"Cor, Mr Ludovik",3rd,19,male,No
+736,"Corn, Mr Harry",3rd,30,male,No
+737,"Coutts, Mrs William (Minnie)",3rd,36,female,Yes
+738,"Coutts, Master Neville",3rd,3,male,Yes
+739,"Coutts, Master William Leslie",3rd,9,male,Yes
+740,"Coxon, Mr Daniel",3rd,59,male,No
+741,"Crease, Mr Ernest James",3rd,19,male,No
+742,"Cribb, Mr John Hatfield",3rd,44,male,No
+743,"Cribb, Miss Laura Alice",3rd,17,female,Yes
+744,"Daher, Mr Tannous",3rd,NA,male,No
+745,"Dahl, Mr Charles Edward",3rd,45,male,Yes
+746,"Dahlberg, Miss Gerda Ulrika",3rd,22,female,No
+747,"Dakic, Mr Branko",3rd,19,male,No
+748,"Daly, Mr Eugene",3rd,29,male,Yes
+749,"Daly, Miss Marcella",3rd,30,female,Yes
+750,"Danbom, Mr Ernst Gilbert",3rd,34,male,No
+751,"Danbom, Mrs Ernst Gilbert (Anna Sigrid Maria Brogren)",3rd,28,female,No
+752,"Danbom, Master Gilbert Sigvard Emanuel",3rd,0.33,male,No
+753,"Danoff, Mr Yoto",3rd,27,male,No
+754,"Dantchoff, Mr Khristo",3rd,25,male,No
+755,"Davies, Mr Alfred",3rd,24,male,No
+756,"Davies, Mr Evan",3rd,22,male,No
+757,"Davies, Mr John",3rd,21,male,No
+758,"Davies, Mr Joseph",3rd,17,male,No
+759,"Davison, Mr Thomas Henry",3rd,NA,male,No
+760,"Davison, Mrs Thomas Henry (Mary Finck)",3rd,NA,female,Yes
+761,"Dean, Mr Bertram",3rd,26,male,No
+762,"Dean, Mrs Bertram (Eva)",3rd,33,female,Yes
+763,"Dean, Master Bertram Vere",3rd,1,male,Yes
+764,"Dean, Miss Elizabeth Gladys (Millvena)",3rd,0.17,female,Yes
+765,"Delalic, Mr Regyo",3rd,25,male,No
+766,"De Messemaeker, Mr William Joseph",3rd,36,male,Yes
+767,"De Messemaeker, Mrs William Joseph (Anna)",3rd,36,female,Yes
+768,"De Mulder, Mr Theo",3rd,30,male,Yes
+769,"Denkoff, Mr Mito",3rd,NA,male,No
+770,"Dennis, Mr Samuel",3rd,23,male,No
+771,"Dennis, Mr William",3rd,26,male,No
+772,"Devaney, Miss Margaret",3rd,19,female,Yes
+773,"Dewan, Mr Frank",3rd,65,male,No
+774,"Dibo, Mr Elias",3rd,NA,male,No
+775,"Dimic, Mr Jovan",3rd,42,male,No
+776,"Dintcheff, Mr Valtcho",3rd,43,male,No
+777,"Dooley, Mr Patrick",3rd,32,male,No
+778,"Dorkings, Mr Edward Arthur",3rd,19,male,Yes
+779,"Dowdell, Miss Elizabeth",3rd,30,female,Yes
+780,"Doyle, Miss Elizabeth",3rd,24,female,No
+781,"Drapkin, Miss Jennie",3rd,23,female,Yes
+782,"Drazonovic, Mr Josef",3rd,NA,male,No
+783,"Driscoll, Miss Bridget",3rd,24,female,Yes
+784,"Duquemin, Mr Joseph",3rd,24,male,Yes
+785,"Dyker, Mr Adolf Fredrik",3rd,23,male,No
+786,"Dyker, Mrs Adolf Fredrik (Anna Elizabeth Judith Andersson)",3rd,22,female,Yes
+787,"Econovic, Mr Joso",3rd,NA,male,No
+788,"Edvardsson, Mr Gustaf Hjalmar",3rd,18,male,No
+789,"Eklund, Mr Hans Linus",3rd,16,male,No
+790,"Ekstrom, Mr Johan",3rd,45,male,No
+791,"Elias, Mr Elias",3rd,NA,male,No
+792,"Elias, Mr John",3rd,NA,male,No
+793,"Elias, Mr Joseph",3rd,NA,male,No
+794,"Elsbury, Mr James",3rd,47,male,No
+795,"Emanuel, Miss Virginia Ethel",3rd,5,female,Yes
+796,"Emmeth, Mr Thomas",3rd,NA,male,No
+797,"Everett, Thomas James",3rd,NA,male,No
+798,"Farrell, Mr James",3rd,NA,male,No
+799,"Finoli, Mr Luigi",3rd,NA,male,Yes
+800,"Fischer, Mr Eberhard Telander",3rd,NA,male,No
+801,"Flynn, Mr James",3rd,NA,male,No
+802,"Flynn, Mr John",3rd,NA,male,No
+803,"Foley, Mr Joseph",3rd,NA,male,No
+804,"Foley, Mr William",3rd,NA,male,No
+805,"Foo, Mr Choong",3rd,NA,male,Yes
+806,"Ford, Mr Arthur",3rd,NA,male,No
+807,"Ford, Miss Doolina Margaret",3rd,21,female,No
+808,"Ford, Mr Edward Watson",3rd,18,male,No
+809,"Ford, Miss Maggie",3rd,9,female,No
+810,"Ford, Mrs Edward (Margaret Ann)",3rd,48,female,No
+811,"Ford, Mr Neil Watson",3rd,16,male,No
+812,"Fox, Mr Patrick",3rd,NA,male,No
+813,"Franklin, Mr Charles",3rd,NA,male,No
+814,"Gallagher, Mr Martin",3rd,25,male,No
+815,"Garfirth, Mr John",3rd,NA,male,No
+816,"Georges, Mrs Shahini Weappi",3rd,38,female,Yes
+817,"Gilinski, Mr Leslie",3rd,22,male,No
+818,"Gilnagh, Miss Katie",3rd,16,female,Yes
+819,"Glynn, Miss Mary Agatha",3rd,NA,female,Yes
+820,"Goldsmith, Mr Frank John",3rd,33,male,No
+821,"Goldsmith, Mrs Frank John (Emily A Brown)",3rd,NA,female,Yes
+822,"Goldsmith, Master Frank John William",3rd,9,male,Yes
+823,"Goldsmith, Mr Nathan",3rd,41,male,No
+824,"Goncalves, Mr Manuel Estanslas",3rd,38,male,No
+825,"Goodwin, Mr Frederick",3rd,40,male,No
+826,"Goodwin, Mrs Frederick (Augusta)",3rd,43,female,No
+827,"Goodwin, Mr Charles E",3rd,14,male,No
+828,"Goodwin, Miss Lillian A",3rd,16,female,No
+829,"Goodwin, Master Harold V",3rd,9,male,No
+830,"Goodwin, Miss Jessie A",3rd,10,female,No
+831,"Goodwin, Master Sidney L",3rd,6,male,No
+832,"Goodwin, Master William F",3rd,11,male,No
+833,"Green, Mr George",3rd,40,male,No
+834,"Gronnestad, Mr Daniel Danielsen",3rd,32,male,No
+835,"Guest, Mr Robert",3rd,NA,male,No
+836,"Gustafsson, Mr Alfred Ossian",3rd,20,male,No
+837,"Gustafsson, Mr Anders Vilhelm",3rd,37,male,No
+838,"Gustafsson, Mr Johan Birger",3rd,28,male,No
+839,"Gustafsson, Mr Karl Gideon",3rd,19,male,No
+840,"Haas, Miss Aloisia",3rd,24,female,No
+841,"Hagardon, Miss Kate",3rd,17,female,No
+842,"Hagland, Mr Ingvald Olsen",3rd,NA,male,No
+843,"Hagland, Mr Konrad Mathias Reiersen",3rd,NA,male,No
+844,"Hakkarainen, Mr Pekko Pietari",3rd,28,male,No
+845,"Hakkarainen, Mrs Pekko Pietari",3rd,24,female,Yes
+846,"Hampe, Mr Leon",3rd,20,male,No
+847,"Hansen, Mr Claus Peter",3rd,41,male,No
+848,"Hansen, Mrs Claus Peter",3rd,45,female,Yes
+849,"Hansen, Mr Henrik Juul",3rd,26,male,No
+850,"Hansen, Mr Henry Damsgaard",3rd,21,male,No
+851,"Harknett, Miss Alice",3rd,NA,female,No
+852,"Harmer, Mr Abraham",3rd,NA,male,No
+853,"Hart, Mr Henry",3rd,NA,male,No
+854,"Hassan, Mr M Houssein",3rd,NA,male,No
+855,"Healy, Miss Nora",3rd,NA,female,No
+856,"Hedman, Mr Oscar",3rd,27,male,Yes
+857,"Hee, Mr Ling",3rd,NA,male,No
+858,"Hegarty, Miss Nora",3rd,18,female,No
+859,"Heikkinen, Miss Laina",3rd,26,female,Yes
+860,"Heininen, Miss Wendla Maria",3rd,23,female,No
+861,"Hellstrom, Hilda Maria",3rd,22,female,Yes
+862,"Hemming, Miss Nora",3rd,NA,female,No
+863,"Hendekovic, Mr Ignaz",3rd,NA,male,No
+864,"Henery, Delia",3rd,NA,female,No
+865,"Henriksson, Jenny Lovisa",3rd,28,female,No
+866,"Hirvonen, Mrs Alexander",3rd,22,female,Yes
+867,"Hirvonen, Miss Hildur E",3rd,2,female,No
+868,"Holm, Mr John Frederik Alexander",3rd,43,male,No
+869,"Holthen, Mr Johan Martin",3rd,NA,male,No
+870,"Honkanen, Miss Eluna",3rd,27,female,Yes
+871,"Horgan, Mr John",3rd,NA,male,No
+872,"Howard, Miss May",3rd,NA,female,Yes
+873,"Humblin, Mr Adolf Mathias Nicolai Olsen",3rd,42,male,No
+874,"Hyman, Mr Abraham",3rd,NA,male,Yes
+875,"Ilieff, Mr Ylio",3rd,NA,male,No
+876,"Ilmakangas, Miss Ida Livija",3rd,27,female,No
+877,"Ilmakangas, Miss Pieta Sofia",3rd,25,female,No
+878,"Ivanoff, Mr Konio",3rd,NA,male,No
+879,"Jansen, Mr Carl Olof",3rd,27,male,Yes
+880,"Jardin, Mr Jose Netto",3rd,NA,male,No
+881,"Jensen, Miss Carla Christine",3rd,19,female,Yes
+882,"Jensen, Mr Hans Peder",3rd,20,male,No
+883,"Jensen, Mr Niels Peder",3rd,48,male,No
+884,"Jensen, Mr Svend Lauritz",3rd,17,male,No
+885,"Jermyn, Miss Annie",3rd,NA,female,Yes
+886,"Johannesen-Bratthammer, Mr Bernt",3rd,NA,male,No
+887,"Johanson, Mr Jakob Alfred",3rd,34,male,No
+888,"Johansson, Mr Erik",3rd,22,male,No
+889,"Johansson, Mr Gustaff Joel",3rd,33,male,No
+890,"Johansson, Mr Karl Johan",3rd,32,male,Yes
+891,"Johansson, Mr Nils",3rd,29,male,No
+892,"Johansson, Oscar L",3rd,26,male,Yes
+893,"Johnson, Mr Alfred",3rd,49,male,No
+894,"Johnson, Miss Eleanor Ileen",3rd,1,female,Yes
+895,"Johnson, Mr Malkolm Joackim",3rd,33,male,No
+896,"Johnson, Master Harold Theodor",3rd,4,male,Yes
+897,"Johnson, Mrs Oscar W",3rd,24,female,No
+898,"Johnson, Mr William Cahoone Jr",3rd,19,male,No
+899,"Johnston, Mr Andrew G",3rd,NA,male,No
+900,"Johnston, Mrs Andrew G",3rd,NA,female,No
+901,"Johnston, Miss Catherine H",3rd,NA,female,No
+902,"Johnston, Master William A",3rd,NA,male,No
+903,"Jonkoff, Mr Lazor",3rd,NA,male,No
+904,"Jonsson, Mr Carl",3rd,32,male,Yes
+905,"Jonsson, Nils Hilding",3rd,27,male,No
+906,"Jussila, Miss Aina Maria",3rd,21,female,No
+907,"Jussila, Mr Erik",3rd,32,male,Yes
+908,"Jussila, Miss Katriina",3rd,20,female,No
+909,"Kallio, Mr Nikolai Erland",3rd,17,male,No
+910,"Kalvig, Mr Johannes K Halverson",3rd,21,male,No
+911,"Karajic, Mr Milan",3rd,30,male,No
+912,"Karlsson, Mr Einar Gervasius",3rd,21,male,Yes
+913,"Karlsson, Mr Julius Konrad Eugen",3rd,23,male,No
+914,"Karlsson, Mr Nils August",3rd,22,male,No
+915,"Karun, Miss Anna Mary",3rd,4,female,Yes
+916,"Karun, Mr Franz",3rd,39,male,No
+917,"Kassem, Mr Fared",3rd,NA,male,No
+918,"Keane, Mr Andrew",3rd,20,male,No
+919,"Keefe, Mr Arthur",3rd,NA,male,No
+920,"Kekic, Mr Tido",3rd,NA,male,No
+921,"Kelly, Miss Anna Kate",3rd,21,female,Yes
+922,"Kelly, Mr James",3rd,44,male,No
+923,"Kelly, Mr James",3rd,42,male,No
+924,"Kelly, Miss Mary",3rd,21,female,Yes
+925,"Kennedy, Mr John",3rd,24,male,No
+926,"Khalil, Mr Betros",3rd,NA,male,No
+927,"Khalil, Mrs Betros",3rd,NA,female,No
+928,"Khalil, Mr Saad",3rd,NA,male,No
+929,"Kiernan, Mr John",3rd,25,male,No
+930,"Kiernan, Mr Philip",3rd,22,male,No
+931,"Kilgannon, Mr Thomas",3rd,22,male,No
+932,"Kink, Mr Anton",3rd,39,male,Yes
+933,"Kink, Mrs Anton (Louise Heilmann)",3rd,26,female,No
+934,"Kink, Miss Louise Gretchen",3rd,4,female,Yes
+935,"Kink, Miss Maria",3rd,22,female,No
+936,"Kink, Mr Vincenz",3rd,26,male,No
+937,"Klasen, Miss Gertrud Emilia",3rd,1.5,female,No
+938,"Klasen, Mrs Hulda Kristina",3rd,36,female,No
+939,"Klasen, Mr Klas Albin",3rd,18,male,No
+940,"Kraeff, Mr Theodor",3rd,NA,male,No
+941,"Krekorian, Mr Neshan",3rd,25,male,Yes
+942,"Lahowd, Mr Sarkis",3rd,NA,male,No
+943,"Laitinen, Miss Kritina Sofia",3rd,37,female,No
+944,"Laleff, Mr Kristo",3rd,NA,male,No
+945,"Lam, Mr Ali",3rd,NA,male,Yes
+946,"Lam, Mr Len",3rd,NA,male,No
+947,"Landegren, Miss Aurora Adelia",3rd,22,female,Yes
+948,"Lane, Mr Patrick",3rd,20,male,No
+949,"Lang, Mr Fang",3rd,26,male,Yes
+950,"Larsson, Mr August Viktor",3rd,29,male,No
+951,"Larsson, Mr Bengt Edvin",3rd,29,male,No
+952,"Larsson-Rondberg, Mr Edvard",3rd,22,male,No
+953,"Leeni, Mr Fahim",3rd,NA,male,Yes
+954,"Lefebre, Mrs Frank",3rd,NA,female,No
+955,"Lefebre, Master Henry",3rd,NA,male,No
+956,"Lefebre, Miss Ida",3rd,NA,female,No
+957,"Lefebre, Miss Jeannie",3rd,NA,female,No
+958,"Lefebre, Miss Mathilde",3rd,NA,female,No
+959,"Leinonen, Mr Antti Gustaf",3rd,32,male,No
+960,"Lemberopolous, Mr Peter L",3rd,NA,male,No
+961,"Lemom, Mr Denis",3rd,21,male,No
+962,"Lemon, Miss Mary",3rd,21,female,No
+963,"Leonard, Mr Lionel",3rd,36,male,No
+964,"Lester, Mr James",3rd,39,male,No
+965,"Lindahl, Miss Agda V",3rd,25,female,No
+966,"Lindblom, Miss Augusta Charlotta",3rd,45,female,No
+967,"Lindell, Mr Edvard Bengtsson",3rd,36,male,No
+968,"Lindell, Mrs Edvard Bengtsson",3rd,30,female,No
+969,"Lindqvist, Eino William",3rd,20,male,Yes
+970,"Linehan, Mr Michael",3rd,NA,male,No
+971,"Ling, Mr Lee",3rd,NA,male,No
+972,"Lithman, Mr Simon",3rd,NA,male,No
+973,"Lobb, Mr William Arthur",3rd,NA,male,No
+974,"Lobb, Mrs William Arthur",3rd,NA,female,No
+975,"Lockyer, Mr Edward",3rd,NA,male,No
+976,"Lovell, Mr John",3rd,NA,male,No
+977,"Lulich, Mr Nicola",3rd,NA,male,Yes
+978,"Lundahl, Mr Johan",3rd,NA,male,No
+979,"Lundin, Miss Olga Elida",3rd,NA,female,Yes
+980,"Lundstrom, Mr Thure Edvin",3rd,NA,male,No
+981,"Lyntakoff, Mr Stanko",3rd,NA,male,No
+982,"MacKay, Mr George William",3rd,NA,male,No
+983,"Madigan, Miss Margaret",3rd,NA,female,Yes
+984,"Madsen, Mr Frithiof",3rd,NA,male,No
+985,"Maenpaa, Mr Matti Alexanteri",3rd,NA,male,No
+986,"Mahon, Miss Delia",3rd,NA,female,No
+987,"Maisner, Mr Simon",3rd,NA,male,No
+988,"Makinen, Mr Kalle Edvard",3rd,NA,male,No
+989,"Mamee, Mr Hanna",3rd,NA,male,Yes
+990,"Mangan, Miss Mary",3rd,NA,female,No
+991,"Mannion, Miss Margareth",3rd,NA,female,Yes
+992,"Mansour, Mr Hanna",3rd,NA,male,No
+993,"Mardirosian, Mr Sarkis",3rd,NA,male,No
+994,"Marinko, Mr Dmitri",3rd,NA,male,No
+995,"Markim, Mr Johann",3rd,NA,male,No
+996,"Markoff, Mr Marin",3rd,NA,male,No
+997,"Masselmany, Mrs Fatima",3rd,NA,female,Yes
+998,"Matinoff, Mr Nicola",3rd,NA,male,No
+999,"McCarthy, Miss Katie",3rd,NA,female,Yes
+1000,"McCormack, Mr Thomas J",3rd,NA,male,No
+1001,"McCoy, Miss Agnes",3rd,NA,female,No
+1002,"McCoy, Miss Alice",3rd,NA,female,No
+1003,"McCoy, Mr Bernard",3rd,NA,male,No
+1004,"McDermott, Miss Delia",3rd,NA,female,No
+1005,"McElroy, Mr Michael",3rd,NA,male,No
+1006,"McGovern, Mrs Hugh",3rd,NA,female,Yes
+1007,"McGowan, Miss Anna",3rd,NA,female,No
+1008,"McGowan, Miss Katherine",3rd,NA,female,No
+1009,"McMahon, Mr Martin",3rd,NA,male,No
+1010,"McNamee, Mr Neal",3rd,NA,male,No
+1011,"McNamee, Mrs Neal",3rd,NA,female,No
+1012,"Meanwell, Miss Marion Ogden",3rd,NA,female,No
+1013,"Mechen, Mr John",3rd,NA,male,No
+1014,"Meek, Mrs Thomas",3rd,NA,female,No
+1015,"Melkebuk, Mrs Philemon",3rd,23,female,No
+1016,"Meo, Mr Alfonso",3rd,NA,male,No
+1017,"Midtsjo, Mr Karl Albert",3rd,NA,male,Yes
+1018,"Mihoff, Mr Stoytcho",3rd,NA,male,No
+1019,"Miles, Mr Frank",3rd,NA,male,No
+1020,"Mineff, Mr Ivan",3rd,NA,male,No
+1021,"Minkoff, Mr Lazar",3rd,NA,male,No
+1022,"Mirko, Mr Dika",3rd,NA,male,No
+1023,"Mitkoff, Mr Mito",3rd,NA,male,No
+1024,"Mocklare, Miss Helen Mary",3rd,NA,female,Yes
+1025,"Moen, Mr Sigurd H",3rd,NA,male,No
+1026,"Moor, Mrs Beila",3rd,NA,female,Yes
+1027,"Moor, Master Meier",3rd,NA,male,No
+1028,"Moore, Mr Leonard Charles",3rd,NA,male,No
+1029,"Moran, Miss Bertha",3rd,NA,female,Yes
+1030,"Moran, Mr Daniel J",3rd,NA,male,No
+1031,"Moran, Mr James",3rd,NA,male,No
+1032,"Morley, Mr Henry Samuel",3rd,NA,male,No
+1033,"Morrow, Mr Thomas Rowan",3rd,NA,male,No
+1034,"Moubarek (Borak), Mr Hanna (John)",3rd,NA,male,Yes
+1035,"Moubarek, Mrs George",3rd,NA,female,No
+1036,"Moubarek, Master George",3rd,NA,male,No
+1037,"Moubarek, Master William George",3rd,NA,male,No
+1038,"Moss, Albert Johan",3rd,NA,male,No
+1039,"Moussa, Mrs Mantoura Baloics",3rd,NA,female,No
+1040,"Moutal, Mr Rahamin",3rd,NA,male,No
+1041,"Mullins, Miss Katie",3rd,NA,female,Yes
+1042,"Mulvihill, Miss Bertha E",3rd,NA,female,No
+1043,"Murdlin, Mr Joseph",3rd,NA,male,No
+1044,"Murphy, Miss Katherine",3rd,NA,female,No
+1045,"Murphy, Miss Margaret",3rd,NA,female,No
+1046,"Murphy, Miss Nora",3rd,NA,female,No
+1047,"Myhrman, Mr Pehr Fabian Oliver Malkolm",3rd,NA,male,No
+1048,"Nackid, Miss Maria",3rd,NA,female,Yes
+1049,"Nackid, Mr Said",3rd,NA,male,No
+1050,"Nackid, Mrs Said",3rd,NA,female,No
+1051,"Nahill, Mr Toufik",3rd,NA,male,No
+1052,"Naidenoff, Mr Penko",3rd,NA,male,No
+1053,"Nancarrow, W H",3rd,NA,male,No
+1054,"Niklasen, Sander",3rd,NA,male,No
+1055,"Nosworthy, Richard C",3rd,NA,male,No
+1056,"Najib, Miss Adele Kiamie",3rd,NA,female,Yes
+1057,"Nancarrow, Mr William Henry",3rd,NA,male,No
+1058,"Nankoff, Mr Minko",3rd,NA,male,No
+1059,"Nasr, Mr Mustafa",3rd,NA,male,No
+1060,"Nassr, Mr Saade Jean",3rd,NA,male,No
+1061,"Naughton, Miss Hannah",3rd,NA,female,No
+1062,"Nemaugh, Mr Robert",3rd,NA,male,No
+1063,"Nenkoff, Mr Christo",3rd,NA,male,No
+1064,"Nicola-Yarred, Miss Jamila",3rd,NA,female,Yes
+1065,"Nicola-Yarred, Master Elias",3rd,NA,male,No
+1066,"Nieminen, Miss Manta Josefina",3rd,NA,female,No
+1067,"Niklasson, Mr Samuel",3rd,NA,male,No
+1068,"Nilsson, Mr August Ferdinand",3rd,NA,male,No
+1069,"Nilsson, Miss Berta Olivia",3rd,NA,female,Yes
+1070,"Nilsson, Miss Helmina Josefina",3rd,NA,female,No
+1071,"Niskanen, Mr Johan",3rd,NA,male,No
+1072,"Nosworthy, Mr Richard Cater",3rd,NA,male,No
+1073,"Novel, Mansouer",3rd,NA,male,Yes
+1074,"Nysten, Miss Anna",3rd,NA,female,No
+1075,"Nysveen, Mr Johan H",3rd,NA,male,No
+1076,"O'Brien, Mr Denis",3rd,NA,male,No
+1077,"O'Brien, Mr Thomas",3rd,NA,male,No
+1078,"O'Brien, Mrs Thomas",3rd,NA,female,Yes
+1079,"O'Connell, Mr Patrick D",3rd,NA,male,No
+1080,"O'Connor, Mr Maurice",3rd,NA,male,No
+1081,"O'Connor, Mr Patrick",3rd,NA,male,No
+1082,"Odahl, Mr Nils Martin",3rd,NA,male,Yes
+1083,"O'Dwyer, Miss Nellie",3rd,NA,female,No
+1084,"Ohman, Miss Velin",3rd,NA,female,No
+1085,"O'Keefe, Mr Patrick",3rd,NA,male,No
+1086,"OLeary, Miss Norah",3rd,NA,female,No
+1087,"Olsen, Master Arthur",3rd,NA,male,No
+1088,"Olsen, Mr Charlie (Carl)",3rd,NA,male,No
+1089,"Olsen, Mr Henry Margido",3rd,NA,male,No
+1090,"Olsen, Mr Ole M",3rd,NA,male,No
+1091,"Olsson, Miss Elida",3rd,NA,female,No
+1092,"Olsson, Mr Nils Johan",3rd,NA,male,No
+1093,"Olsson, Mr Oscar Johansson",3rd,NA,male,Yes
+1094,"O'Neill, Miss Bridget",3rd,NA,female,No
+1095,"Oreskovic, Mr Jeko",3rd,NA,male,No
+1096,"Oreskovic, Mr Luka",3rd,NA,male,No
+1097,"Oreskovic, Mr Maria",3rd,NA,male,No
+1098,"Osen, Mr Olof Elon",3rd,NA,male,No
+1099,"Osman, Miss Maria",3rd,NA,female,Yes
+1100,"O'Sullivan, Miss Bridget",3rd,NA,female,No
+1101,"Panula, Mr Ernesti Arvid",3rd,NA,male,No
+1102,"Panula, Mr Jaako Arnold",3rd,NA,male,No
+1103,"Panula, Master Juha Niilo",3rd,NA,male,No
+1104,"Panula, Mrs John",3rd,NA,female,No
+1105,"Panula, Master Urho Abraham",3rd,NA,male,No
+1106,"Panula, Master William",3rd,NA,male,No
+1107,"Pasic, Mr Jakob",3rd,NA,male,No
+1108,"Paulner, Mr Uscher",3rd,NA,male,No
+1109,"Paulsson, Master Gosta Leonard",3rd,NA,male,No
+1110,"Paulsson, Mrs Nils",3rd,NA,female,No
+1111,"Paulsson, Master Paul Folke",3rd,NA,male,No
+1112,"Paulsson, Miss Stina Viola",3rd,NA,female,No
+1113,"Paulsson, Miss Torborg Danira",3rd,NA,female,No
+1114,"Pavlovic, Mr Stefo",3rd,NA,male,No
+1115,"Peacock, Master Alfred Edward",3rd,NA,male,No
+1116,"Peacock, Mrs Benjamin",3rd,NA,female,No
+1117,"Peacock, Miss Treasteall",3rd,NA,female,No
+1118,"Pearce, Mr Ernest",3rd,NA,male,No
+1119,"Pecruic, Mr Mate",3rd,NA,male,No
+1120,"Pecruic, Mr Tome",3rd,NA,male,No
+1121,"Pedersen, Mr Olaf",3rd,NA,male,No
+1122,"Peduzzi, Mr Joseph",3rd,NA,male,No
+1123,"Pekoniemi, Mr Edvard",3rd,NA,male,Yes
+1124,"Peltomaki, Nikolai Johannes",3rd,NA,male,No
+1125,"Perkin, Mr John Henry",3rd,NA,male,No
+1126,"Persson, Mr Ernst Ulrik",3rd,NA,male,Yes
+1127,"Peter (Joseph), Miss Mary",3rd,NA,female,No
+1128,"Peter (Joseph), Mrs Catherine",3rd,NA,female,No
+1129,"Peter (Joseph), Master Michael J",3rd,NA,male,No
+1130,"Peters, Miss Katie",3rd,NA,female,No
+1131,"Petersen, Mr Marius",3rd,NA,male,No
+1132,"Petranec, Miss Matilda",3rd,NA,female,No
+1133,"Petroff, Mr Nedeca",3rd,NA,male,No
+1134,"Petroff, Mr Pentcho",3rd,NA,male,No
+1135,"Pettersson, Miss Ellen Natalia",3rd,NA,female,No
+1136,"Peterson, Mr Johan Emil",3rd,NA,male,No
+1137,"Pickard (Trembisky), Mr Berk",3rd,NA,male,Yes
+1138,"Plotcharsky, Mr Vasil",3rd,NA,male,No
+1139,"Potchett, Mr George",3rd,NA,male,No
+1140,"Radeff, Mr Alexander",3rd,NA,male,No
+1141,"Raibid, Mr Razi",3rd,NA,male,No
+1142,"Reed, Mr James George",3rd,NA,male,No
+1143,"Reynolds, Mr Harold",3rd,NA,male,No
+1144,"Rice, Master Albert",3rd,NA,male,No
+1145,"Rice, Master Arthur",3rd,NA,male,No
+1146,"Rice, Master George",3rd,NA,male,No
+1147,"Rice, Master Eric",3rd,NA,male,No
+1148,"Rice, Master Eugene",3rd,NA,male,No
+1149,"Rice, Mrs William",3rd,NA,female,No
+1150,"Riihiivouri, Miss Sanni",3rd,NA,female,No
+1151,"Rintamaki, Mr Matti",3rd,NA,male,No
+1152,"Riordan, Miss Hannah",3rd,NA,female,Yes
+1153,"Risien, Mr Samuel",3rd,NA,male,No
+1154,"Risien, Mrs Samuel",3rd,NA,female,No
+1155,"Robins, Mr Alexander A",3rd,NA,male,No
+1156,"Robins, Mrs Alexander A",3rd,NA,female,No
+1157,"Rommetvedt, Mr Karl Kristian Knut",3rd,NA,male,No
+1158,"Rogers, Mr William John",3rd,NA,male,No
+1159,"Rosblom, Mrs Viktor",3rd,NA,female,No
+1160,"Rosblom, Miss Salli Helena",3rd,NA,female,No
+1161,"Rosblom, Mr Viktor Rickard",3rd,NA,male,No
+1162,"Roth, Miss Sarah",3rd,NA,female,Yes
+1163,"Rouse, Mr Richard Henry",3rd,NA,male,No
+1164,"Rush, Mr Alfred George John",3rd,NA,male,No
+1165,"Ryan, Mr Edward Ryan",3rd,NA,male,Yes
+1166,"Ryan, Mr Patrick",3rd,NA,male,No
+1167,"Saad, Mr Amin",3rd,NA,male,No
+1168,"Saad, Khalil",3rd,NA,male,Yes
+1169,"Sadlier, Mr Matthew",3rd,NA,male,No
+1170,"Sadowitz, Mr Harry",3rd,NA,male,No
+1171,"Sage, Miss Ada",3rd,NA,female,No
+1172,"Sage, Miss Constance",3rd,NA,female,No
+1173,"Sage, Miss Dorothy",3rd,NA,female,No
+1174,"Sage, Mr Douglas",3rd,NA,male,No
+1175,"Sage, Mr Frederick",3rd,NA,male,No
+1176,"Sage, Mr George",3rd,NA,male,No
+1177,"Sage, Mr John",3rd,NA,male,No
+1178,"Sage, Mrs John",3rd,NA,female,No
+1179,"Sage, Miss Stella",3rd,NA,female,No
+1180,"Sage, Thomas (child)",3rd,NA,male,No
+1181,"Sage, Master William",3rd,NA,male,No
+1182,"Salander, Mr Karl Johan",3rd,21,male,No
+1183,"Salkjelsvik, Miss Anna",3rd,NA,female,Yes
+1184,"Salonen, Mr Johan Werner",3rd,NA,male,No
+1185,"Samaan, Mr Elias",3rd,NA,male,No
+1186,"Samaan, Mr Hanna",3rd,NA,male,No
+1187,"Samaan, Mr Youssef",3rd,NA,male,No
+1188,"Sandstrom, Miss Hjalmar",3rd,NA,female,Yes
+1189,"Sandstrom, Miss Beatrice Irene",3rd,1.5,female,No
+1190,"Sandstrom, Miss Marguerite Rut",3rd,NA,female,No
+1191,"Sather, Simon Sivertsen",3rd,NA,male,No
+1192,"Saundercock, William Henry",3rd,NA,male,No
+1193,"Sawyer, Mr Frederick",3rd,NA,male,No
+1194,"Scanlan, Mr James",3rd,NA,male,No
+1195,"Sdycoff, Mr Todor",3rd,NA,male,No
+1196,Seman Master Betros,3rd,NA,male,No
+1197,"Serota, Mr Maurice",3rd,NA,male,No
+1198,"Shaughnesay, Mr Patrick",3rd,NA,male,No
+1199,"Shedid (Sitik), Mr Daher (Docart)",3rd,NA,male,No
+1200,"Sheerlinck, Mr Jean",3rd,NA,male,Yes
+1201,"Shellard, Mr Frederick B",3rd,NA,male,No
+1202,"Shine, Miss Ellen",3rd,NA,female,Yes
+1203,"Shorney, Mr Charles",3rd,NA,male,No
+1204,"Simmons, Mr John",3rd,NA,male,No
+1205,"Sirayanian, Mr Arsun",3rd,NA,male,No
+1206,"Sivic, Mr Husen",3rd,NA,male,No
+1207,"Sivola, Mr Antti",3rd,NA,male,No
+1208,"Sjoblom, Miss Anna Sofia",3rd,NA,female,Yes
+1209,"Sholt, Mr Peter Andreas Lauritz Andersen",3rd,NA,male,No
+1210,"Skinner, Mr Henry John",3rd,NA,male,No
+1211,"Skoog, Master Harald",3rd,NA,male,No
+1212,"Skoog, Master Karl",3rd,NA,male,No
+1213,"Skoog, Miss Mabel",3rd,NA,female,No
+1214,"Skoog, Miss Margit",3rd,NA,female,No
+1215,"Skoog, Mr William",3rd,NA,male,No
+1216,"Skoog, Mrs William",3rd,NA,female,No
+1217,"Slabenoff, Mr Petco",3rd,NA,male,No
+1218,"Slocovski, Mr Selman",3rd,NA,male,No
+1219,"Smiljanovic, Mr Mile",3rd,NA,male,No
+1220,"Smyth, Miss Julia",3rd,NA,female,Yes
+1221,"Solvang, Mrs Lena Jacobsen",3rd,NA,female,No
+1222,"Somerton, Mr Francis William",3rd,NA,male,No
+1223,"Sop, Mr Jules",3rd,NA,male,Yes
+1224,"Spector, Mr Woolf",3rd,NA,male,No
+1225,"Staneff, Mr Ivan",3rd,NA,male,No
+1226,"Stankovic, Mr Jovan",3rd,NA,male,No
+1227,"Stanley, Miss Amy Zilla Elsie",3rd,NA,female,Yes
+1228,"Stanley, Mr Edward Roland",3rd,NA,male,No
+1229,"Storey, Mr Thomas",3rd,NA,male,No
+1230,"Stoyehoff, Mr Ilia",3rd,NA,male,No
+1231,"Strandberg, Miss Ida Sofia",3rd,NA,female,No
+1232,"Stranden, Mr Juho",3rd,NA,male,Yes
+1233,"Strilic, Mr Ivan",3rd,NA,male,No
+1234,"Strom, Mrs Wilhelm",3rd,NA,female,No
+1235,"Strom, Miss Telma (Selma) Matilda",3rd,NA,female,No
+1236,"Sunderland, Mr Victor Francis",3rd,NA,male,Yes
+1237,"Sundman, Mr Johan Julian",3rd,NA,male,No
+1238,"Sutehall, Mr Henry, Jr",3rd,NA,male,No
+1239,"Svensson, Mr Johan",3rd,NA,male,No
+1240,"Svensson, Mr Johan Cervin",3rd,NA,male,Yes
+1241,"Svensson, Mr Olof",3rd,NA,male,No
+1242,"Tannous, Mr Thomas",3rd,NA,male,No
+1243,"Tenglin, Mr Gunnar Isidor",3rd,NA,male,Yes
+1244,"Theobald, Mr Thomas Leonard",3rd,NA,male,No
+1245,"Thomas, Mrs Alexander",3rd,NA,female,Yes
+1246,"Thomas, Master Assad Alexander",3rd,NA,male,No
+1247,"Thomas, Mr Charles",3rd,NA,male,No
+1248,"Thomas, Mr John, Jr",3rd,NA,male,No
+1249,"Thomas, Mr John (? 1st/2nd class)",3rd,NA,male,No
+1250,"Thomson, Mr Alexander",3rd,NA,male,No
+1251,"Thorneycroft, Mr Percival",3rd,NA,male,No
+1252,"Thorneycroft, Mrs Percival",3rd,NA,female,Yes
+1253,"Tikkanen, Mr Juho",3rd,NA,male,No
+1254,"Tobin, Mr Roger",3rd,NA,male,No
+1255,"Todoroff, Mr Lalio",3rd,NA,male,No
+1256,"Toerber, Mr Ernest William",3rd,NA,male,No
+1257,"Tomlin, Mr Ernest Portage",3rd,NA,male,No
+1258,"Torfa, Mr Assad",3rd,NA,male,No
+1259,"Tornquist, Mr William Henry",3rd,25,male,Yes
+1260,"Touma (Thomas), Mrs Darwin",3rd,NA,female,No
+1261,"Touma (Thomas), Master George",3rd,NA,male,No
+1262,"Touma (Thomas), Miss Hannah",3rd,NA,female,No
+1263,"Turcin, Mr Stefan",3rd,NA,male,No
+1264,"Turja, Miss Anna Sofia",3rd,18,female,Yes
+1265,"Turkula, Mrs Hedvig",3rd,63,female,Yes
+1266,"Uzelas, Mr Joso",3rd,NA,male,No
+1267,"Van Billiard, Mr Austin Blyler",3rd,NA,male,No
+1268,"Van Billiard, Master James William",3rd,NA,male,No
+1269,"Van Billiard, Master Walter John",3rd,NA,male,No
+1270,"Van der Planke, Miss Augusta",3rd,18,female,No
+1271,"Van der Planke, Mr Jules",3rd,31,male,No
+1272,"Van der Planke, Mrs Jules",3rd,31,female,No
+1273,"Van der Planke, Mr Leon",3rd,15,male,No
+1274,"Van der Steen, Mr Leo Peter",3rd,28,male,No
+1275,"Van de Velde, Mr John Joseph",3rd,36,male,No
+1276,"Vandewalle, Mr Nestor Cyriel",3rd,28,male,No
+1277,"Van Impe, Miss Catharine",3rd,10,female,No
+1278,"Van Impe, Mr Jean Baptiste",3rd,36,male,No
+1279,"Van Impe, Mrs Jean Baptiste",3rd,30,female,No
+1280,"Vartunian, Mr David",3rd,22,male,Yes
+1281,"Vassilios, Mr Catavelas",3rd,NA,male,No
+1282,"Vendel, Mr Olof Wdvin",3rd,29,male,No
+1283,"Vereruysse, Mr Victor",3rd,47,male,No
+1284,"Vestrom, Miss Hulda Amanda Adolfina",3rd,14,female,No
+1285,"Vonk, Mr Jenko",3rd,22,male,No
+1286,"Ware, Mr Frederick",3rd,NA,male,No
+1287,"Warren, Mr Charles William",3rd,NA,male,No
+1288,"Wazli, Mr Yousif",3rd,NA,male,No
+1289,"Webber, Mr James",3rd,NA,male,No
+1290,"Wennerstrom, Mr August Edvard",3rd,NA,male,Yes
+1291,"Wenzel, Mr Linhart",3rd,NA,male,No
+1292,"Widegren, Mr Charles Peter",3rd,51,male,No
+1293,"Wiklund, Mr Jacob Alfred",3rd,18,male,No
+1294,"Wilkes, Mrs Ellen",3rd,45,female,Yes
+1295,"Willer, Mr Aaron",3rd,NA,male,No
+1296,"Willey, Mr Edward",3rd,NA,male,No
+1297,"Williams, Mr Howard Hugh",3rd,NA,male,No
+1298,"Williams, Mr Leslie",3rd,28,male,No
+1299,"Windelov, Mr Einar",3rd,21,male,No
+1300,"Wirz, Mr Albert",3rd,27,male,No
+1301,"Wiseman, Mr Phillippe",3rd,NA,male,No
+1302,"Wittevrongel, Mr Camiel",3rd,36,male,No
+1303,"Yalsevac, Mr Ivan",3rd,NA,male,Yes
+1304,"Yasbeck, Mr Antoni",3rd,27,male,No
+1305,"Yasbeck, Mrs Antoni",3rd,15,female,Yes
+1306,"Youssef, Mr Gerios",3rd,NA,male,No
+1307,"Zabour, Miss Hileni",3rd,NA,female,No
+1308,"Zabour, Miss Tamini",3rd,NA,female,No
+1309,"Zakarian, Mr Artun",3rd,27,male,No
+1310,"Zakarian, Mr Maprieder",3rd,26,male,No
+1311,"Zenni, Mr Philip",3rd,22,male,No
+1312,"Lievens, Mr Rene",3rd,24,male,No
+1313,"Zimmerman, Leo",3rd,29,male,No
