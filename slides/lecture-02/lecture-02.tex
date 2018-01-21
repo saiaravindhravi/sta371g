@@ -58,170 +58,170 @@
 \author{STA 371G}
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \begin{document}
-  
+
 
 
 
 
   \frame{\maketitle}
 
-  % Show outline at beginning of each section
-  \AtBeginSection[]{
-    \begin{frame}<beamer>
-      \tableofcontents[currentsection]
-    \end{frame}
-  }
-
   %%%%%%% Slides start here %%%%%%%
 
   \begin{darkframes}
-  
-  
-  
-    \begin{frame}{Again, what is R? What is RStudio?}
-    \fontsize{10}{10}\selectfont
-     R is the language, which we access through RStudio (interface).\pause   
-     
-     \bigskip
-     Here is what it looks like... 
 
+
+
+    \begin{frame}{RStudio}
+     R is the language, which we access through RStudio (interface).\pause
       \begin{center}
-        \includegraphics[width=4in]{RStudio}
-      \end{center} 
+        \includegraphics[width=\textwidth]{RStudio}
+      \end{center}
     \end{frame}
 
-    
-    
-    \begin{frame}{RStudio Layout}
-    \fontsize{10}{10}\selectfont
+    \begin{frame}{RStudio}
       \begin{itemize}
         \item \alert{Console:} This is where calculations/code are passed to R and results are observed. \pause
         \item \alert{Editor:} It is not practical to write long calculations/code in console. We write them in the editor, and "Run" to pass to the console. \pause
         \item \alert{Environment:} All data sets/variables we define can be found here. \pause
         \item \alert{Plots:} When we plot things, they will first appear here.
-      \end{itemize} 
+      \end{itemize}
     \end{frame}
-    
-    
-    
-    
+
     \begin{frame}{Let's get started...}
-    \fontsize{10}{10}\selectfont
-    Assume you want to calculate your course grade.
-    
-      \begin{table}[!b]
-        {\carlitoTLF % Use monospaced lining figures
-        \begin{tabularx}{\textwidth}{ccc}
-           
-           Assignment & Weight  & Grade \\ 
-          \toprule
-            Class participation & 5\%	&	91  \\
-            Reading assignments & 5\%	&	95  \\
-            Homework    & 15\%	&	 86 \\
-            Project     & 15\%	&	 83 \\
-            Midterm 1   & 20\%	&	 88 \\
-            Midterm 2   & 20\%	&	 76 \\
-            Final exam  & 20\%	&	 84 \\
-        \end{tabularx}}
-        
-      \end{table} 
+    Suppose you want to calculate your course grade.
+
+    \begin{table}[!b]
+      \begin{tabular}{ccc}
+         Assignment & Weight  & Grade \\
+        \toprule
+          Class participation & 5\%	&	91  \\
+          Reading assignments & 5\%	&	95  \\
+          Homework    & 15\%	&	 86 \\
+          Project     & 15\%	&	 83 \\
+          Midterm 1   & 20\%	&	 88 \\
+          Midterm 2   & 20\%	&	 84 \\
+          Final exam  & 20\%	&	 76 \\
+      \end{tabular}
+    \end{table}
     \end{frame}
 
 
     \begin{frame}[fragile]{Using the console}
-      First try this in console.
+      Try this in the console (enter all on one line and press Enter):
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlnum{0.05}\hlopt{*}\hlnum{91}\hlopt{+}\hlnum{0.05}\hlopt{*}\hlnum{95}\hlopt{+}\hlnum{0.15}\hlopt{*}\hlnum{86}\hlopt{+}\hlnum{0.15}\hlopt{*}\hlnum{83}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{88}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{76}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{84}
+\hlnum{0.05}\hlopt{*}\hlnum{91} \hlopt{+} \hlnum{0.05}\hlopt{*}\hlnum{95} \hlopt{+} \hlnum{0.15}\hlopt{*}\hlnum{86} \hlopt{+} \hlnum{0.15}\hlopt{*}\hlnum{83} \hlopt{+}
+  \hlnum{0.2}\hlopt{*}\hlnum{88} \hlopt{+} \hlnum{0.2}\hlopt{*}\hlnum{84} \hlopt{+} \hlnum{0.2}\hlopt{*}\hlnum{76}
 \end{alltt}
 \begin{verbatim}
 [1] 84.25
 \end{verbatim}
 \end{kframe}
 \end{knitrout}
-      \pause
-      It makes sense to save the result to a variable to be able to use later.
+    \end{frame}
+
+    \begin{frame}[fragile]{Using the console}
+      We can also assign the result of a calculation to a variable.
+      Here we'll create a variable called \verb|grade| which will contain
+      the result of our calculation:
+
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlstd{my371} \hlkwb{<-} \hlnum{0.05}\hlopt{*}\hlnum{91}\hlopt{+}\hlnum{0.05}\hlopt{*}\hlnum{95}\hlopt{+}\hlnum{0.15}\hlopt{*}\hlnum{86}\hlopt{+}\hlnum{0.15}\hlopt{*}\hlnum{83}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{88}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{76}\hlopt{+}\hlnum{0.2}\hlopt{*}\hlnum{84}
+\hlstd{grade} \hlkwb{<-} \hlnum{0.05}\hlopt{*}\hlnum{91} \hlopt{+} \hlnum{0.05}\hlopt{*}\hlnum{95} \hlopt{+} \hlnum{0.15}\hlopt{*}\hlnum{86} \hlopt{+} \hlnum{0.15}\hlopt{*}\hlnum{83} \hlopt{+}
+  \hlnum{0.2}\hlopt{*}\hlnum{88} \hlopt{+} \hlnum{0.2}\hlopt{*}\hlnum{84} \hlopt{+} \hlnum{0.2}\hlopt{*}\hlnum{76}
 \end{alltt}
+\end{kframe}
+\end{knitrout}
+
+      \pause
+
+      Now we can do calculations using that variable. For example,
+      what will our grade be if the grades are curved up by 5 points?
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
+\begin{alltt}
+\hlstd{grade} \hlopt{+} \hlnum{10}
+\end{alltt}
+\begin{verbatim}
+[1] 94.25
+\end{verbatim}
 \end{kframe}
 \end{knitrout}
     \end{frame}
 
-
-
     \begin{frame}[fragile]{Using the editor}
-      \fontsize{10}{10}\selectfont
-      It much convenient to do the calculations/coding in the editor and then "run" them. \pause
-      
-      Working with vectors is also common, which are simply data containers.
+      In R, an \emph{vector} is just a list of numbers.
+      Let's redo the calculation using vectors:
 
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlcom{# This is the same calculation, using vectors.}
-\hlstd{> }  \hlstd{weights} \hlkwb{<-} \hlkwd{c}\hlstd{(}\hlnum{0.05}\hlstd{,} \hlnum{0.05}\hlstd{,} \hlnum{0.15}\hlstd{,} \hlnum{0.15}\hlstd{,} \hlnum{0.2}\hlstd{,} \hlnum{0.2}\hlstd{,} \hlnum{0.2}\hlstd{)}
-\hlstd{> }  \hlstd{grades} \hlkwb{<-} \hlkwd{c}\hlstd{(}\hlnum{91}\hlstd{,} \hlnum{95}\hlstd{,} \hlnum{86}\hlstd{,} \hlnum{83}\hlstd{,} \hlnum{88}\hlstd{,} \hlnum{76}\hlstd{,} \hlnum{84}\hlstd{)}
-\hlstd{> }  \hlstd{weighted_grades} \hlkwb{<-} \hlstd{weights}\hlopt{*}\hlstd{grades}
-\hlstd{> }  \hlstd{my371} \hlkwb{<-} \hlkwd{sum}\hlstd{(weighted_grades)}
+\hlcom{# This is the same calculation, using vectors.}
+\hlstd{weights} \hlkwb{<-} \hlkwd{c}\hlstd{(}\hlnum{0.05}\hlstd{,} \hlnum{0.05}\hlstd{,} \hlnum{0.15}\hlstd{,} \hlnum{0.15}\hlstd{,} \hlnum{0.2}\hlstd{,} \hlnum{0.2}\hlstd{,} \hlnum{0.2}\hlstd{)}
+\hlstd{grades} \hlkwb{<-} \hlkwd{c}\hlstd{(}\hlnum{91}\hlstd{,} \hlnum{95}\hlstd{,} \hlnum{86}\hlstd{,} \hlnum{83}\hlstd{,} \hlnum{88}\hlstd{,} \hlnum{84}\hlstd{,} \hlnum{76}\hlstd{)}
+\hlstd{weighted.grades} \hlkwb{<-} \hlstd{weights} \hlopt{*} \hlstd{grades}
+\hlstd{my371} \hlkwb{<-} \hlkwd{sum}\hlstd{(weighted.grades)}
 \end{alltt}
 \end{kframe}
 \end{knitrout}
-      The multiplication is element-wise. \pause
-      
-      ``sum'' is a predefined function in R, which sums all the elements in a vector.
-  
+      The multiplication is ``element-wise,'' meaning that the corresponding elements in each vector are multiplied. \pause
+
+      Then, the \verb|sum| function adds up all the elements in the resulting vector.
+
       \note{Discuss why it makes sense to vectorize and save in variables. We can, for example, use weights in multiple places.}
 
     \end{frame}
-    
-    
-    
+
+
+
     \begin{frame}[fragile]{Working with tabular data}
-      \fontsize{10}{10}\selectfont
-      Many data sets we will work with are in tabular format, saved in .csv files. \pause
-      
-      Let's analyze the passenger data from the Titanic disaster.
-      \begin{center}
-        \includegraphics[width=4in]{titanic}
-      \end{center} 
-    
-    
+      Many data sets we will work with are in tabular format, saved in ``CSV'' files (CSV = comma-separated values).
+
+      \bigskip\pause
+
+      Let's analyze the passenger data from the Titanic disaster. Load the file by copying and pasting the command from Learning Catalytics, and then type \verb|View(titanic)| to view the data set.
+
+      \bigskip\pause
+
+      This data has five variables:
+      \begin{itemize}
+        \item \alert{Name}: The name of the passenger
+        \item \alert{PClass}: The class of the passenger (1st, 2nd, etc)
+        \item \alert{Age}: The age of the passenger, in years
+        \item \alert{Sex}: The sex of the passenger
+        \item \alert{Survived}: Whether the passenger survived the disaster
+      \end{itemize}
     \end{frame}
-    
-    
-    
+
+
+
     \begin{frame}[fragile]{Working with tabular data}
-      \fontsize{10}{10}\selectfont
-      In order to see the table, use "View(titanic)". \pause
-      
+      \verb|$| is used to refer to a particular column in the data, such as \verb|titanic$Name|.   \pause
+
       \bigskip
-      
-      "\$" sign is used to refer to a particular column in the data, such as "titanic\$Name".   \pause
-      
-      \bigskip
-      
-      To access to an element in a particular position, e.g., row 1, column 4, use "titanic[1,4]".
-      
-    
+
+      To access to an element in a particular position, e.g., row 1, column 4, use \verb|titanic[1,4]|.
+
+
     \end{frame}
-    
-    
-    \begin{frame}[fragile]{Exploring Categorical Variables}  
-      \fontsize{10}{10}\selectfont
-      The dataset has both quantitative and categorical data. \pause
-      
-      Let's explore the categorical variables through some frequency tables. \pause
-      
-      Below is the number of passengers in each class.
-      
+
+
+    \begin{frame}[fragile]{Exploring Categorical Variables}
+      The dataset has both quantitative and categorical data. (What's the difference?)
+
+      \bigskip\pause
+
+      Let's explore the categorical variables through some frequency tables.
+
+      Let's say we want to get a frequency table of the number of passengers by class:
+
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlkwd{table}\hlstd{(titanic}\hlopt{$}\hlstd{PClass)}
+\hlkwd{table}\hlstd{(titanic}\hlopt{$}\hlstd{PClass)}
 \end{alltt}
 \begin{verbatim}
 
@@ -230,18 +230,17 @@
 \end{verbatim}
 \end{kframe}
 \end{knitrout}
-      
-    \end{frame}  
-    
-    
-    \begin{frame}[fragile]{Exploring Categorical Variables} 
-      \fontsize{10}{10}\selectfont
-      What is more interesting is how many people survived in each passenger class. \pause
+    \end{frame}
+
+
+    \begin{frame}[fragile]{Exploring Categorical Variables}
+      What is more interesting is a two-way table showing how many people survived in each passenger class. We'll assign the table to a variable for later use!
+
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlstd{class_survival} \hlkwb{<-} \hlkwd{table}\hlstd{(titanic}\hlopt{$}\hlstd{Survived, titanic}\hlopt{$}\hlstd{PClass)}
-\hlstd{> }  \hlstd{class_survival}
+\hlstd{class_survival} \hlkwb{<-} \hlkwd{table}\hlstd{(titanic}\hlopt{$}\hlstd{Survived, titanic}\hlopt{$}\hlstd{PClass)}
+\hlstd{class_survival}
 \end{alltt}
 \begin{verbatim}
      
@@ -252,15 +251,14 @@
 \end{kframe}
 \end{knitrout}
     \end{frame}
-    
-    
+
+
     \begin{frame}[fragile]{Exploring Categorical Variables}
-      \fontsize{10}{10}\selectfont
       To get a better sense of the data, let's calculate the survival percentage for each passenger class.
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }  \hlkwd{prop.table}\hlstd{(class_survival,}\hlnum{2}\hlstd{)}
+  \hlkwd{prop.table}\hlstd{(class_survival,} \hlnum{2}\hlstd{)}
 \end{alltt}
 \begin{verbatim}
      
@@ -271,109 +269,116 @@
 \end{kframe}
 \end{knitrout}
       \pause
-      It looks like one's chance of survival highly depended on his/her passenger class...
+
+      It looks like one's chance of survival highly depended on his/her passenger class!
     \end{frame}
-    
-    
-    
+
+
+
     \begin{frame}[fragile]{Slicing the data}
-      \fontsize{10}{10}\selectfont
       One very common operation is slicing the data, i.e., selecting the portion that satisfy certain conditions. \pause
-      
+
       \bigskip
       For example, we can select the rows that belong to female passenger data.
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }   \hlstd{female_psg} \hlkwb{<-} \hlstd{titanic[titanic}\hlopt{$}\hlstd{Sex}\hlopt{==}\hlstr{'female'}\hlstd{,]}
+\hlstd{female.passengers} \hlkwb{<-} \hlkwd{subset}\hlstd{(titanic, Sex} \hlopt{==} \hlstr{"female"}\hlstd{)}
 \end{alltt}
 \end{kframe}
 \end{knitrout}
       \pause
-      
-      This means: in the titanic dataset, select rows where the "Sex" is "female", select all columns, and save the resulting table to "female\_psg" variable.
+
+      This means: in the titanic dataset, select rows where \verb|Sex| is \verb|female| and save the resulting table to the \verb|female.passengers| variable.
 
     \end{frame}
-    
-    
-    
-    
+
+
+
+
     \begin{frame}[fragile]{Slicing the data}
-      \fontsize{10}{10}\selectfont
-      We can create more complex conditions.
-      
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
-\begin{alltt}
-\hlstd{> }  \hlstd{female_psg_1st} \hlkwb{<-} \hlstd{titanic[(titanic}\hlopt{$}\hlstd{Sex}\hlopt{==}\hlstr{'female'}\hlstd{)} \hlopt{&}
-\hlstd{+ }                                \hlstd{(titanic}\hlopt{$}\hlstd{PClass}\hlopt{==}\hlstr{'1st'}\hlstd{),]}
-\end{alltt}
-\end{kframe}
-\end{knitrout}
-    
-    \end{frame}
-    
-    
-    
-    
-    \begin{frame}[fragile]{Cleaning the data}
-      \fontsize{10}{10}\selectfont
-      If you want to analyze the "Age" data, you will realize rows with "NA", meaning Not Available. \pause
-      
-      \bigskip
-      Let's select rows where we have age data available.
-      
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
-\begin{alltt}
-\hlstd{> }  \hlstd{titanic_age} \hlkwb{<-} \hlstd{titanic[}\hlopt{!}\hlkwd{is.na}\hlstd{(titanic}\hlopt{$}\hlstd{Age),]}
-\end{alltt}
-\end{kframe}
-\end{knitrout}
-      \pause
-      This selects rows where the Age value is not "NA".
-      
-    \end{frame}  
-    
-    
-    
-    \begin{frame}[fragile]{Exploring quantitative data}
-      \fontsize{10}{10}\selectfont
-      Let's look into age distribution of the passengers.
-      
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
-\begin{alltt}
-\hlstd{> }\hlkwd{hist}\hlstd{(titanic_age}\hlopt{$}\hlstd{Age,} \hlkwc{col}\hlstd{=}\hlstr{'green'}\hlstd{,} \hlkwc{main}\hlstd{=}\hlstr{''}\hlstd{)}
-\end{alltt}
-\end{kframe}
-\input{/tmp/figures/unnamed-chunk-12-1.tikz}
+      We can create more complex conditions -- what do you think this does?
 
-\end{knitrout}
-      
-    \end{frame}
-    
-    
-        \begin{frame}[fragile]{Exploring quantitative data}
-      \fontsize{10}{10}\selectfont
-      Another way to look into it, by using a boxplot and compare between passenger classes.
-      
 \begin{knitrout}
 \definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
 \begin{alltt}
-\hlstd{> }\hlkwd{boxplot}\hlstd{(Age} \hlopt{~} \hlstd{PClass,} \hlkwc{data}\hlstd{=titanic,} \hlkwc{col}\hlstd{=}\hlstr{'green'}\hlstd{,} \hlkwc{main}\hlstd{=}\hlstr{''}\hlstd{)}
+\hlstd{my.data} \hlkwb{<-} \hlkwd{subset}\hlstd{(titanic, Sex} \hlopt{==} \hlstr{"female"} \hlopt{&}
+                           \hlstd{PClass} \hlopt{==} \hlstr{"1st"}\hlstd{)}
+\end{alltt}
+\end{kframe}
+\end{knitrout}
+
+      \pause
+
+      We can use the \verb|nrow| function to count the \underline{n}umber of \underline{row}s in a dataset:
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
+\begin{alltt}
+\hlkwd{nrow}\hlstd{(my.data)}
+\end{alltt}
+\begin{verbatim}
+[1] 143
+\end{verbatim}
+\end{kframe}
+\end{knitrout}
+
+      There were 143 women in first class on the Titanic!
+    \end{frame}
+
+
+
+    %
+    % \begin{frame}[fragile]{Cleaning the data}
+    %   \fontsize{10}{10}\selectfont
+    %   If you want to analyze the "Age" data, you will realize rows with "NA", meaning Not Available. \pause
+    %
+    %   \bigskip
+    %   Let's select rows where we have age data available.
+    %
+    %   <<>>=
+    %     titanic_age <- titanic[!is.na(titanic$Age),]
+    %   @
+    %   \pause
+    %   This selects rows where the Age value is not "NA".
+    %
+    % \end{frame}
+
+
+
+    \begin{frame}[fragile]{Exploring quantitative data}
+      Let's look into age distribution of the passengers.
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
+\begin{alltt}
+\hlkwd{hist}\hlstd{(titanic}\hlopt{$}\hlstd{Age,} \hlkwc{col}\hlstd{=}\hlstr{"green"}\hlstd{,}
+     \hlkwc{xlab}\hlstd{=}\hlstr{"Passenger age"}\hlstd{,} \hlkwc{main}\hlstd{=}\hlstr{""}\hlstd{)}
 \end{alltt}
 \end{kframe}
 \input{/tmp/figures/unnamed-chunk-13-1.tikz}
 
 \end{knitrout}
-      
     \end{frame}
-    
-    
-    
 
+
+    \begin{frame}[fragile]{Exploring quantitative data}
+      We can look at the relationship between a quantitative variable and a categorical one by generating side-by-side boxplots to compare the distribution of the quantiative variable for each value of the categorical variable:
+
+      \pause
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.137, 0.137, 0.137}\begin{kframe}
+\begin{alltt}
+\hlkwd{boxplot}\hlstd{(Age} \hlopt{~} \hlstd{PClass,} \hlkwc{data}\hlstd{=titanic,} \hlkwc{col}\hlstd{=}\hlstr{"green"}\hlstd{,} \hlkwc{main}\hlstd{=}\hlstr{""}\hlstd{)}
+\end{alltt}
+\end{kframe}
+\input{/tmp/figures/unnamed-chunk-14-1.tikz}
+
+\end{knitrout}
+
+      What can we conclude about the relationship between age and class?
+    \end{frame}
   \end{darkframes}
 
 \end{document}
-
