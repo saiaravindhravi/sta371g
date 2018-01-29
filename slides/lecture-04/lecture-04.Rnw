@@ -37,7 +37,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
   \fullpagepicture{muppets.jpg}
 \end{frame}
 
-\begin{frame}{Who are these guys?}
+\begin{frame}{Who are these folks?}
   \begin{columns}[onlytextwidth]
     \column{.25\textwidth}
       \begin{center}
@@ -73,7 +73,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
   \end{columns}
 \end{frame}
 
-\begin{frame}{Who are these guys?}
+\begin{frame}{Who are these folks?}
   \begin{columns}[onlytextwidth]
     \column{.25\textwidth}
       \begin{center}
@@ -203,7 +203,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
     \pause
     \begin{itemize}[<+->]
       \item If a Muppet is bald, they are less likely to be an animal
-      \item If a Muppet is an animal, they less likely to be bald
+      \item If a Muppet is an animal, they are less likely to be bald
     \end{itemize}
     \pause
     The more complex rule $P(\text{$A$ and $B$})=P(A)P(B|A)$ will always work.
@@ -270,6 +270,7 @@ par(fg='#fefefe', col.axis='#fefefe', col.lab='#fefefe', col.main="#fefefe", mar
     \item $P(\text{underwear found} \mid \text{partner is not cheating}) = P(U|\overline C)$
     \item $P(\text{partner is cheating}) = P(C)$ (before we found the underwear!)
   \end{itemize}
+  \pause
   Now that we found the underwear, we want to \emph{update our estimate} of how likely it is that our partner is cheating, i.e., we want to know $P(C|U)$.
   \newline\pause
   (Note: This is the \emph{reverse} of the probability we know already!)
