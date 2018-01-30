@@ -136,6 +136,8 @@ options(digits=2)
 
 \begin{frame}
   \fullpagepicture{doctors}
+  \note{This is a study reported on by the BBC.}
+  \note{Doctors were given the problem shown in LC!}
   \lc
 \end{frame}
 
