@@ -177,6 +177,8 @@
 
 \begin{frame}
   \fullpagepicture{doctors}
+  \note{This is a study reported on by the BBC.}
+  \note{Doctors were given the problem shown in LC!}
   \lc
 \end{frame}
 
@@ -259,7 +261,7 @@
 \end{frame}
 
 \begin{frame}{Example 3: Monty Hall and \emph{Let's Make a Deal}}
-  Let's suppose we open Door 1, and Monty shows us a goat behind Door 2. We have to decide: switch to Door 3, or keep our original choice of Door 1?
+  Let's suppose we pick Door 1, and Monty shows us a goat behind Door 2. We have to decide: switch to Door 3, or keep our original choice of Door 1?
   \begin{align*}
     D3 &= \text{The car is behind Door 3} \\
     G2 &= \text{Monty shows us a goat behind Door 2}
@@ -269,14 +271,14 @@
   \begin{itemize}[<+->]
     \item $P(D3) = \pause 1/3$ (the car is placed randomly)
     \item $P(G2|D3) = \pause 1$ (we already picked Door 1, and Monty can't show us the car, so he has to show us the goat behind Door 2)
-    \item $P(G2|\overline{D3}) = \pause 1/2$ (the car must be behind Door 1 or 2; we'll see the goat behind Door 2 only if the car is behind Door 1)
+    \item $P(G2|\overline{D3}) = \pause 1/4$ (the car must be behind Door 1 or 2; we'll see the goat behind Door 2 only if the car is behind Door 1 \emph{and} he chooses to open door 2 instead of 3)
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Example 3: Monty Hall and \emph{Let's Make a Deal}}
   \begin{align*}
     P(D3|G2) &= \frac{ P(G2|D3)P(D3) }{ P(G2|D3)P(D3) + P(G2|\overline{D3})P(\overline{D3}) } \\
-    &= \frac{ 1 \cdot \dfrac 1 3 }{ 1 \cdot \dfrac 1 3 + \dfrac 1 2 \cdot \dfrac 2 3 } \\
+    &= \frac{ 1 \cdot \dfrac 1 3 }{ 1 \cdot \dfrac 1 3 + \dfrac 1 4 \cdot \dfrac 2 3 } \\
     &= \frac 2 3
   \end{align*}
   \pause
